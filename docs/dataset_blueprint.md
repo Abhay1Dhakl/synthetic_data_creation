@@ -62,6 +62,50 @@ Generate diversity without changing the underlying fact.
 - Complexity: simple sentence, compound sentence, 2-sentence mini paragraph
 - Terminology: technical term plus plain-language alternative where useful
 
+## Anti-Repetition Rules
+
+Do not create a large dataset by lightly rephrasing the same sentence again and again.
+That weakens the value of the MT corpus.
+
+Use these rules:
+
+1. One fact cluster should usually produce only `3-5` records.
+2. Do not repeat the same sentence form for the same fact.
+3. Do not keep two records whose meaning is almost identical.
+4. Do not allow one content bucket such as definitions or treatment to dominate the topic.
+5. Prefer adding a new fact type over adding a new paraphrase.
+
+Bad pattern:
+
+- "Glaucoma is an eye disease."
+- "Glaucoma is a disease of the eye."
+- "Glaucoma is an eye condition."
+
+Better pattern:
+
+- what glaucoma is
+- early symptoms are often absent
+- a dilated eye exam helps detect it
+- eye drops may help lower pressure
+- early treatment can protect vision
+
+## Sentence-Type Mix
+
+For each subdomain, spread records across different communicative purposes.
+
+| Sentence type | Target share |
+| --- | ---: |
+| Definition / explanation | 15% |
+| Symptom description | 15% |
+| Risk / cause statement | 10% |
+| Test / diagnosis description | 10% |
+| Treatment overview | 10% |
+| Procedure or preparation instruction | 10% |
+| Aftercare instruction | 10% |
+| Warning / emergency advice | 10% |
+| Lifestyle / prevention advice | 5% |
+| Short FAQ | 5% |
+
 ## Minimal Schema
 
 ```json
@@ -85,14 +129,16 @@ Generate diversity without changing the underlying fact.
 1. Collect `20-30` source documents for one subdomain.
 2. Split them into atomic facts.
 3. Group similar facts into clusters such as symptoms, diagnosis, treatment, aftercare.
-4. Create `8-12` variants per fact cluster.
+4. Create `3-5` diverse records per fact cluster.
 5. Translate each variant into natural Nepali.
 6. Run terminology and consistency checks.
 7. Deduplicate near-identical pairs.
 
 Practical rule:
 
-- `35` fact clusters x `10` variants each = `350` pairs
+- `70-100` fact clusters x `3-4` records each = `280-400` pairs
+
+This is better than forcing hundreds of paraphrases from a small number of facts.
 
 ## Quality Checks
 
@@ -104,6 +150,8 @@ Before accepting a record, verify:
 4. Institution-specific phone numbers and addresses were removed.
 5. The Nepali sentence is natural and not just word-for-word transliteration.
 6. The sentence can stand alone without hidden context.
+7. The record is not a near-duplicate of an earlier record.
+8. The record adds a new fact type or a new sentence function.
 
 ## Notes For Your Current Brachytherapy Material
 

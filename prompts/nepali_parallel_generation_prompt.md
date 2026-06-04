@@ -48,16 +48,42 @@ Rules:
    - "Go to room C1609" -> do not include
    - "Do not eat solid food after midnight before the procedure" -> keep
 10. If a source passage contains unclear or contradictory information, skip that fact.
+11. Do not generate shallow paraphrases of the same sentence.
+12. Each new record must add at least one new dimension:
+   - new fact
+   - new sentence type
+   - new audience
+   - new clinical focus
+13. Avoid repeating the same English openings such as:
+   - "X is..."
+   - "X can cause..."
+   - "Treatment may include..."
+   Vary sentence structure across the set.
+14. Limit each fact cluster to `3-5` records maximum.
+15. If two candidate records have nearly the same meaning, keep the clearer one and drop the other.
 
 Distribution target:
 - 40% plain patient language
 - 40% mid-level educational language
 - 20% technical but readable language
 
+Sentence-type target:
+- 15% definitions
+- 15% symptoms
+- 10% risks/causes
+- 10% tests/diagnosis
+- 10% treatment overview
+- 10% prep/procedure steps
+- 10% aftercare
+- 10% warnings/emergency advice
+- 5% prevention/lifestyle
+- 5% FAQ
+
 Quality bar:
 - The Nepali side must be publication-ready for MT research.
 - Avoid duplicate wording.
 - Avoid pronouns with missing context like "it", "this", "they" unless the noun is repeated.
+- Prefer topic breadth over heavy paraphrasing of a few facts.
 
 ## Example Input
 
