@@ -136,3 +136,48 @@ Important reasons to seek urgent help include:
 - Drowsiness, confusion, or severe breathing trouble
 
 Severe attacks may require emergency treatment such as nebulized medicine, oxygen therapy, or ventilator support.
+
+## Block 7
+
+Source title: Asthma - Managing Asthma | NHLBI, NIH  
+Source URL: https://www.nhlbi.nih.gov/health/asthma/living-with
+
+Important extracted text:
+
+Managing asthma at home includes learning about the disease, understanding medicines, and recognizing attacks early.
+
+The source recommends monitoring airflow with a peak flow meter as part of the asthma action plan and keeping a record of results.
+
+Trigger control measures listed on the page include:
+
+- Keeping furry pets out of the home or bedroom if needed
+- Removing dust and mold
+- Avoiding workplace triggers
+- Limiting time outdoors when allergen levels are high
+- Keeping windows closed when air quality is low
+- Avoiding tobacco smoke and indoor air pollution
+
+The page also recommends preventing lung infections, including discussion of flu and pneumonia vaccines, handwashing, and reducing exposure to respiratory infections.
+
+Healthy lifestyle changes such as weight management and eating more fruits and vegetables may also help keep symptoms under better control.
+
+## Block 8
+
+Source title: Asthma - Asthma in Children | NHLBI, NIH  
+Source URL: https://www.nhlbi.nih.gov/health/asthma/children
+
+Important extracted text:
+
+Children may show asthma differently from adults.
+
+The source notes that children may cough in their sleep, avoid energetic activity, get tired quickly, and seem more irritable.
+
+Diagnosing asthma in children younger than 6 years can be difficult because they often cannot do spirometry.
+
+Providers may rely more on symptom history and may sometimes try asthma medicines for a few months to see how the child responds.
+
+Management in children includes avoiding triggers, using medicines, watching symptoms, and having an asthma action plan.
+
+The source recommends giving a copy of the child's asthma action plan to school staff and other caregivers.
+
+Emergency care is needed if a child with asthma becomes drowsy or confused, develops blue lips or skin, or has a fast heartbeat.

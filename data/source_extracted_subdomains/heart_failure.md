@@ -75,3 +75,77 @@ Patients should watch for warning signs that the condition is getting worse, suc
 It is useful to keep emergency contacts, hospital directions, and a current medicine list ready.
 
 Living with heart failure may also cause fear, anxiety, depression, and stress, so counseling, family support, and support groups can be important.
+
+## Block 4
+
+Source title: Heart Failure - Diagnosis | NHLBI, NIH  
+Source URL: https://www.nhlbi.nih.gov/health/heart-failure/diagnosis
+
+Important extracted text:
+
+Heart failure is diagnosed using medical history, physical examination, and test results.
+
+Patients are encouraged to bring a list of symptoms, when the symptoms started, how often they happen, and a list of medicines they take.
+
+Blood tests may be used to check molecules such as BNP and to evaluate kidney and liver function.
+
+Providers may use echocardiography or other imaging tests to measure ejection fraction.
+
+Important ejection fraction groupings in the source include:
+
+- 40% or less: heart failure with reduced ejection fraction
+- 50% or more: heart failure with preserved ejection fraction
+- 41% to 49%: borderline ejection fraction
+
+Other tests may include cardiac CT, cardiac MRI, nuclear heart scan, cardiac catheterization with coronary angiography, electrocardiogram, Holter or event monitor, and stress testing.
+
+## Block 5
+
+Source title: Heart Failure - Causes and Risk Factors | NHLBI, NIH  
+Source URL: https://www.nhlbi.nih.gov/health/heart-failure/causes
+
+Important extracted text:
+
+Chronic heart failure is often caused by medical conditions that damage or overwork the heart.
+
+Acute heart failure can be caused by heart injury, infection, heart attack, or blood clot in the lung.
+
+Left-sided heart failure with reduced ejection fraction is commonly linked to coronary heart disease, heart attack, faulty heart valves, irregular heartbeat, and congenital heart disease.
+
+Left-sided heart failure with preserved ejection fraction is commonly linked to high blood pressure and other conditions that make the heart work harder. Obesity and diabetes can also contribute.
+
+Right-sided heart failure often develops after left-sided heart failure, but it can also be caused by congenital heart defects, abnormal heart valves, COPD, and other lung conditions.
+
+Risk factors include aging, family history, unhealthy lifestyle habits, smoking, heavy alcohol use, inactivity, obesity, high blood pressure, diabetes, sleep apnea, chronic kidney disease, anemia, thyroid disease, and atrial fibrillation.
+
+The source also notes that Black and African American people are more likely to have heart failure, often at a younger age and with more severe disease.
+
+## Block 6
+
+Source title: Heart Failure - Treatment | NHLBI, NIH  
+Source URL: https://www.nhlbi.nih.gov/health/heart-failure/treatment
+
+Important extracted text:
+
+Heart failure has no cure, but treatment can reduce symptoms and help people live longer and more actively.
+
+Important lifestyle measures include:
+
+- Lowering sodium intake
+- Aiming for a healthy weight
+- Getting physical activity as advised
+- Quitting smoking
+- Avoiding or limiting alcohol
+- Managing blood pressure, heart rhythm, anemia, stress, and sleep problems
+
+For heart failure with reduced ejection fraction, medicines may include:
+
+- Diuretics and aldosterone antagonists
+- ACE inhibitors or ARBs
+- Beta blockers
+- Ivabradine
+- Digoxin in selected severe cases
+
+For preserved ejection fraction, diuretics and blood pressure medicines are described as main treatments.
+
+If heart failure worsens, devices or procedures may be needed, such as a biventricular pacemaker, ventricular assist device, total artificial heart, implantable cardioverter defibrillator, heart surgery, or heart transplant.

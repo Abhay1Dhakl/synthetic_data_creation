@@ -101,3 +101,56 @@ Phosphorus buildup can weaken bones and harm blood vessels.
 Potassium that is too low or too high can cause heart and muscle problems.
 
 Protein intake may need balance because excess waste from protein can strain damaged kidneys, while too little protein can lead to malnutrition.
+
+## Block 5
+
+Source title: Chronic Kidney Disease Tests & Diagnosis - NIDDK  
+Source URL: https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis
+
+Important extracted text:
+
+Early kidney disease often has no symptoms, so testing is the main way to find it.
+
+People with diabetes are advised to get checked every year, and people with high blood pressure, heart disease, or family history of kidney failure should discuss testing frequency with their provider.
+
+The source highlights two main tests:
+
+- A blood test for GFR to check filtering function
+- A urine test for albumin to detect kidney damage
+
+Important GFR groupings in the source include:
+
+- 60 or more: normal range
+- Less than 60: may mean kidney disease
+- 15 or less: kidney failure
+
+The same tests are also used over time to monitor whether treatment is working.
+
+## Block 6
+
+Source title: Causes of Chronic Kidney Disease in Adults - NIDDK  
+Source URL: https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/causes
+
+Important extracted text:
+
+The most common causes of chronic kidney disease in adults are diabetes and high blood pressure.
+
+High blood glucose can damage the kidneys' filters and allow needed proteins to leak into the urine.
+
+High blood pressure can damage blood vessels and other parts of the kidney filtering system, creating a harmful cycle because extra fluid can raise blood pressure even more.
+
+Other causes listed in the source include:
+
+- Acute kidney injury
+- Certain cancers and related conditions
+- Immune system disorders such as lupus
+- Drugs toxic to the kidneys
+- Glomerular diseases
+- Infections
+- Kidney stones with complications
+- Metabolic syndrome
+- Polycystic kidney disease
+- Severe obesity
+- Sickle cell disease
+
+Knowing the cause of CKD can help guide management and protect the kidneys from further damage.

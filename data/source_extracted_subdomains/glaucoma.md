@@ -76,3 +76,77 @@ After a dilated eye exam, vision may be blurry and eyes may be sensitive to ligh
 If signs of eye disease are found, the patient and doctor can discuss treatment options and next steps.
 
 Regular dilated eye exams are an important way to protect vision over time.
+
+## Block 5
+
+Source title: Types of Glaucoma | National Eye Institute  
+Source URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/glaucoma/types-glaucoma
+
+Important extracted text:
+
+There are multiple types of glaucoma, and most have no early symptoms.
+
+Open-angle glaucoma is the most common type in the United States.
+
+The page also describes:
+
+- Normal-tension glaucoma
+- Angle-closure glaucoma
+- Congenital glaucoma
+- Neovascular glaucoma
+- Pigmentary glaucoma
+- Exfoliation glaucoma
+- Uveitic glaucoma
+
+Angle-closure glaucoma is described as a medical emergency because fluid builds up quickly and can cause blindness within days if not treated.
+
+Congenital glaucoma can cause cloudy eyes, light sensitivity, extra tearing, and larger-than-normal eyes in babies.
+
+Some secondary glaucomas are linked to underlying problems such as diabetes, high blood pressure, uveitis, injury, or exfoliation syndrome.
+
+## Block 6
+
+Source title: Glaucoma Medicines | National Eye Institute  
+Source URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/glaucoma/glaucoma-medicines
+
+Important extracted text:
+
+Prescription eye drops are described as the most common treatment for glaucoma.
+
+These medicines lower eye pressure and help prevent further optic nerve damage.
+
+They do not cure glaucoma or reverse vision loss, but they can keep it from getting worse.
+
+The source explains that some eye drops help fluid drain from the eye, while others reduce the amount of fluid the eye makes.
+
+Possible side effects listed on the page include:
+
+- Stinging, itching, burning, or redness
+- Blurry vision
+- Changes in eye color or nearby skin
+- Headaches
+- Dry mouth
+- Changes in energy level, heartbeat, or breathing
+
+The page stresses that eye drops need to be used every day as prescribed, even though they may not make the patient feel different.
+
+## Block 7
+
+Source title: Laser Treatment for Glaucoma | National Eye Institute  
+Source URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/glaucoma/treatment
+
+Important extracted text:
+
+Laser treatment can help treat some types of glaucoma by improving fluid drainage and lowering eye pressure.
+
+The procedure can often be done in the office.
+
+During treatment, the doctor numbs the eye with drops, uses a special lens, and aims a laser into the eye.
+
+Most people feel little or no pain during the procedure.
+
+Possible side effects include swelling, soreness, corneal scratch, dryness, blurry vision, and temporary irritation.
+
+Most people can return to normal daily activities the day after treatment, but they may need someone to drive them home.
+
+The source notes that laser treatment works well for many people, but not for everyone, and some people still need glaucoma medicines or additional treatment later.

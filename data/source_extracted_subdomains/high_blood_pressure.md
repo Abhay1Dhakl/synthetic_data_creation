@@ -93,3 +93,54 @@ Key long-term management steps include:
 Readings above 180/120 mm Hg are dangerously high and require immediate attention.
 
 Call emergency services if these readings are accompanied by severe headache, breathing difficulty, major pain, numbness, vision change, or speech problems.
+
+## Block 5
+
+Source title: High Blood Pressure - Diagnosis | NHLBI, NIH  
+Source URL: https://www.nhlbi.nih.gov/health/high-blood-pressure/diagnosis
+
+Important extracted text:
+
+Everyone age 3 or older should have blood pressure checked by a healthcare provider at least once a year.
+
+Blood pressure can be measured in a clinic, office, pharmacy, or at home.
+
+The source recommends these preparation steps before measurement:
+
+- Do not exercise, drink coffee, or smoke for 30 minutes before the test
+- Go to the bathroom before the test
+- Sit and relax for at least 5 minutes
+- Keep feet flat on the floor
+- Do not talk during the measurement
+- Support the arm at heart level
+
+Readings can be affected by white coat hypertension, masked high blood pressure, and use of the wrong cuff size.
+
+Approved home blood pressure devices are recommended for self-measurement outside the clinic.
+
+## Block 6
+
+Source title: High Blood Pressure - Treatment | NHLBI, NIH  
+Source URL: https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment
+
+Important extracted text:
+
+Treatment plans may use heart-healthy lifestyle changes alone or in combination with medicines.
+
+The source states that lowering systolic blood pressure below 120 mm Hg can reduce the risk of serious complications.
+
+Important lifestyle measures include:
+
+- Following the DASH eating plan and a low-salt eating pattern
+- Limiting alcohol
+- Getting regular physical activity
+- Working toward a healthy weight
+- Quitting smoking
+- Managing stress
+- Getting 7 to 9 hours of good-quality sleep
+
+The source notes that losing 5% to 10% of body weight over 6 months can improve health, and even 3% to 5% weight loss can help blood pressure.
+
+When lifestyle change is not enough, medicines may be prescribed. Many people need two or more blood pressure medicines.
+
+Healthy lifestyle habits should continue even while taking medicines.

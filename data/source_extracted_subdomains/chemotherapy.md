@@ -111,3 +111,60 @@ The source lists many side effect areas, including:
 - Urinary and bladder problems
 
 Side effects vary from person to person, even among people receiving the same type of treatment.
+
+## Block 6
+
+Source title: Chemotherapy to Treat Cancer - NCI  
+Source URL: https://www.cancer.gov/about-cancer/treatment/types/chemotherapy
+
+Important extracted text:
+
+Chemotherapy costs depend on several factors, including:
+
+- Which drugs and doses are used
+- How long and how often treatment is given
+- Whether treatment is given at home, in a clinic, or in a hospital
+- Where the patient lives
+
+The source advises patients to talk with their health insurance company and the treatment center's business office about coverage.
+
+NCI's Cancer Information Service is listed as a possible place to ask about financial help resources.
+
+## Block 7
+
+Source title: Chemotherapy to Treat Cancer - NCI  
+Source URL: https://www.cancer.gov/about-cancer/treatment/types/chemotherapy
+
+Important extracted text:
+
+Chemotherapy is often given in cycles, which means a treatment period followed by a rest period.
+
+The rest period gives the body time to recover and build new healthy cells.
+
+The source notes that chemotherapy affects people differently depending on the drug type, dose, cancer type, stage, and the person's general health before treatment.
+
+Doctors monitor whether chemotherapy is working through follow-up visits, physical examination, blood tests, and scans such as MRI, CT, or PET.
+
+The page also states that side effects do not show whether chemotherapy is working.
+
+During treatment, some people can continue working, sometimes with part-time or work-from-home adjustments.
+
+## Block 8
+
+Source title: Chemotherapy and You: Support for People With Cancer - NCI  
+Source URL: https://www.cancer.gov/publications/patient-education/chemo-and-you
+
+Important extracted text:
+
+This NCI patient booklet is intended for people who are about to receive or are already receiving chemotherapy, and it may also be useful for family and friends.
+
+The booklet is described as a guide that can be used before, during, and after chemotherapy treatment.
+
+According to the source, it includes:
+
+- Basic questions and answers about chemotherapy
+- Information on side effects and how they may be managed
+- Tips for meeting with doctors and nurses
+- Ways to find more information in print, online, and by phone
+
+The page encourages patients to talk with their doctor or nurse about what to expect and which parts of the booklet are most relevant to their treatment.

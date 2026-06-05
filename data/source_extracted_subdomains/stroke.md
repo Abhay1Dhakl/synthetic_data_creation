@@ -76,3 +76,48 @@ Doctors may also use blood thinners or procedures to remove a clot.
 For hemorrhagic stroke, treatment may require medicines, endovascular procedures, or surgery to stop bleeding and protect brain tissue.
 
 After one stroke, the risk of another stroke remains high, so long-term prevention and treatment of underlying causes are necessary.
+
+## Block 4
+
+Source title: Risk Factors for Stroke | Stroke | CDC  
+Source URL: https://www.cdc.gov/stroke/risk-factors/index.html
+
+Important extracted text:
+
+The source explains that anyone can have a stroke at any age, but risk rises with both medical conditions and lifestyle factors.
+
+Medical conditions that raise stroke risk include:
+
+- Previous stroke or transient ischemic attack
+- High blood pressure
+- High cholesterol
+- Heart disease, including coronary artery disease and atrial fibrillation
+- Diabetes
+- Obesity
+- Sickle cell disease
+
+Lifestyle factors that raise risk include unhealthy diet, too much salt, physical inactivity, drinking too much alcohol, tobacco use, and exposure to secondhand smoke.
+
+The source also notes that age, family history, genetics, sex, and race or ethnicity can affect stroke risk.
+
+## Block 5
+
+Source title: Treatment and Intervention for Stroke | Stroke | CDC  
+Source URL: https://www.cdc.gov/stroke/treatment/index.html
+
+Important extracted text:
+
+After a stroke, the risk of another stroke remains high.
+
+The source states that 1 in 4 stroke survivors has another stroke within 5 years.
+
+It also notes that stroke risk within 90 days of a transient ischemic attack may be as high as 17%, with the highest risk during the first week.
+
+Ongoing care after stroke may include:
+
+- Medicines
+- Diet and exercise changes
+- Other healthy lifestyle changes
+- Surgery in selected cases
+
+Treating the underlying causes of stroke is described as an important part of long-term prevention.
