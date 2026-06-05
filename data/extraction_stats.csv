@@ -1,0 +1,5 @@
+domain,records,micro_topics,page_types,sentence_functions,fact_buckets
+cancer,24,6,8,6,17
+diabetes,24,6,8,6,20
+eye,24,5,9,6,15
+heart_disease,24,5,8,5,19
