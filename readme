@@ -504,11 +504,6 @@ Thank you very much, The HDR Brachytherapy clinical pathway team, 5 East Medical
 
 Additional Plain-Text Source Files
 The current brachytherapy material remains in this file as the main example.
-Additional source packs in the same general plain-text style are available here:
-data/readme_style_sources/heart_coronary_heart_disease.txt
-data/readme_style_sources/diabetes_overview.txt
-data/readme_style_sources/eye_glaucoma.txt
-data/readme_style_sources/cancer_chemotherapy.txt
-See data/readme_style_sources/README.md for a short index.
-
-
+Other source-extracted healthcare subdomain files are available in:
+data/source_extracted_subdomains/
+See data/source_extracted_subdomains/README.md and data/source_extracted_subdomains/manifest.csv.
