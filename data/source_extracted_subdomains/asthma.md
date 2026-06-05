@@ -9,15 +9,13 @@ Important extracted text:
 
 Asthma is a chronic condition that affects the airways in the lungs.
 
-If a person has asthma, the airways can become inflamed and narrowed at times, making it harder for air to move out during breathing.
+If you have asthma, your airways can become inflamed and narrowed at times. This makes it harder for air to flow out of your airways when you breathe out.
 
-Asthma affects people of all ages and often begins during childhood.
+About 1 in 13 people in the United States have asthma.
 
-Common triggers include pollen, exercise, viral infections, and cold air.
+Certain things, such as pollen, exercise, viral infections, or cold air, can set off or worsen asthma symptoms. These are called asthma triggers.
 
-When symptoms worsen, an asthma attack can happen.
-
-There is no cure, but treatment and an asthma action plan can help people manage asthma.
+There is no cure for asthma, but treatment and an asthma action plan can help you manage the condition.
 
 ## Block 2
 
@@ -26,18 +24,19 @@ Source URL: https://www.nhlbi.nih.gov/health/asthma/symptoms
 
 Important extracted text:
 
-Common asthma symptoms include:
+Symptoms of asthma may include:
 
-- Wheezing
+- Wheezing, which is a whistling sound when you breathe out
 - Coughing, especially at night or early morning
 - Shortness of breath
 - Chest tightness
 
-Asthma symptoms often follow a pattern.
+In asthma, the symptoms often follow a pattern:
 
-They may come and go over time, start or worsen with viral infections, be triggered by exercise, allergies, cold air, laughing, or crying, and may be worse at night or in the morning.
-
-Warning signs that asthma may be getting worse include more frequent symptoms, worse symptoms, needing reliever medicine more often, waking at night because of symptoms, and trouble doing usual activities.
+- They come and go over time or within the same day.
+- They start or get worse with viral infections.
+- They are triggered by exercise, allergies, cold air, or breathing too fast from laughing or crying.
+- They are worse at night or in the morning.
 
 ## Block 3
 
@@ -46,22 +45,24 @@ Source URL: https://www.nhlbi.nih.gov/health/asthma/causes
 
 Important extracted text:
 
-The exact causes of asthma are not fully known and may differ from person to person.
+The exact causes for developing asthma are unknown and may be different from person to person.
 
-Many factors may work together, including early environmental exposures, breathing-related viral infections, and family history.
+Many factors may work together to cause you to develop asthma, such as:
 
-Other factors that can raise risk include:
+- Things in the environment that affected you as a baby or young child, including cigarette smoke or certain germs
+- Viral infections that affect breathing
+- Family history
+
+The following may also raise the risk of developing asthma:
 
 - Allergies
 - Obesity
 - Race or ethnicity
 - Sex
-- Occupational exposure to chemicals or industrial dust
-- Air pollution and changing weather patterns
+- Occupational hazards
+- Climate change
 
-Asthma affects the lungs by causing inflammation, airway swelling, excess mucus, and tightening of the muscles around the airways.
-
-Over time, airway walls can become thicker.
+When this happens, the airways swell, narrow, and can create more mucus. The muscles around the airways may also tighten.
 
 ## Block 4
 
@@ -70,19 +71,19 @@ Source URL: https://www.nhlbi.nih.gov/health/asthma/diagnosis
 
 Important extracted text:
 
-People with asthma symptoms should talk to a healthcare provider and discuss symptoms and risk factors.
+Talk to your healthcare provider if you or your child have asthma symptoms.
 
-Diagnosis may involve a primary care provider, asthma specialist, or allergist.
+Your healthcare provider may want to run some tests to diagnose your asthma.
 
-Lung function tests may include:
+Lung function tests measure how well you can breathe in and out:
 
 - Spirometry
-- Peak expiratory flow testing
-- Bronchodilator responsiveness testing
+- Peak expiratory flow tests
+- Bronchodilator responsiveness tests
 
-Challenge tests may use medicines, allergens, exercise, or hyperventilation to check airway sensitivity.
+Challenge tests, also called bronchial provocation tests, assess how sensitive your airways are.
 
-Other tests may include allergy testing and fractional exhaled nitric oxide testing.
+Your healthcare provider may want to run other tests to help diagnose your asthma, including allergy tests and fractional exhaled nitric oxide tests.
 
 ## Block 5
 
@@ -91,26 +92,20 @@ Source URL: https://www.nhlbi.nih.gov/health/asthma/treatment-action-plan
 
 Important extracted text:
 
-Asthma treatment depends on age, symptom severity, and response to medicines.
+Treatment for asthma usually depends on your age, how serious your symptoms are, and how your body responds to medicines.
 
-Some people need daily controller medicines, and many people also need a reliever inhaler for attacks.
+Some people take daily medicines to control and prevent symptoms. You can also carry medicines, such as a reliever inhaler, to use during an asthma attack.
 
-Quick-relief medicines include:
-
-- Inhaled short-acting beta2-agonists
-- Oral corticosteroids
-- Short-acting anticholinergics
+Quick-relief medicines, or relievers, help prevent or ease symptoms during an asthma attack.
 
 Long-term control medicines may include:
 
 - Corticosteroids
 - Biologic medicines
 - Leukotriene modifiers
-- Mast cell stabilizers
-- Long-acting bronchodilators
-- Allergy shots in selected patients
-
-Patients should learn correct inhaler use and follow an asthma action plan.
+- Inhaled mast cell stabilizers
+- Inhaled long-acting bronchodilators
+- Allergy shots
 
 ## Block 6
 
@@ -119,23 +114,18 @@ Source URL: https://www.nhlbi.nih.gov/health/asthma/attacks
 
 Important extracted text:
 
-Asthma attacks happen when swelling or tightening narrows the airways and makes breathing harder.
+Asthma attacks, or flare-ups, happen when swelling or tightening narrows the airways, making it harder to breathe.
 
-Attacks can appear quickly or gradually and may be life-threatening.
+During an asthma attack, symptoms get much worse. Attacks can come on quickly or gradually and may be life-threatening.
 
-People should use the reliever inhaler as soon as symptoms start and follow the asthma action plan.
+Follow your asthma action plan to help you know what to do and when to call 9-1-1 for emergency care.
 
-Call emergency services if medicines do not relieve symptoms or if breathing remains very hard.
+You should seek care right away if you or your child have symptoms and:
 
-Important reasons to seek urgent help include:
-
-- Symptoms not improving after reliever medicine
-- History of severe attacks or recent hospitalization
-- Recent need for oral corticosteroids
-- Blue lips or skin in a young child
-- Drowsiness, confusion, or severe breathing trouble
-
-Severe attacks may require emergency treatment such as nebulized medicine, oxygen therapy, or ventilator support.
+- Have been hospitalized for asthma in the past year
+- Recently needed corticosteroids taken by mouth
+- Have not been using inhaled corticosteroids
+- Use more than one canister of inhaled short-acting beta2-agonist medicine each month
 
 ## Block 7
 
@@ -144,22 +134,21 @@ Source URL: https://www.nhlbi.nih.gov/health/asthma/living-with
 
 Important extracted text:
 
-Managing asthma at home includes learning about the disease, understanding medicines, and recognizing attacks early.
+Take steps to help keep your asthma under control:
 
-The source recommends monitoring airflow with a peak flow meter as part of the asthma action plan and keeping a record of results.
+- Know your asthma.
+- Monitor your air flow.
+- Write down any problems with your asthma and bring the record with you to your next care visit.
 
-Trigger control measures listed on the page include:
+Follow these steps to avoid triggers:
 
-- Keeping furry pets out of the home or bedroom if needed
-- Removing dust and mold
-- Avoiding workplace triggers
-- Limiting time outdoors when allergen levels are high
-- Keeping windows closed when air quality is low
-- Avoiding tobacco smoke and indoor air pollution
-
-The page also recommends preventing lung infections, including discussion of flu and pneumonia vaccines, handwashing, and reducing exposure to respiratory infections.
-
-Healthy lifestyle changes such as weight management and eating more fruits and vegetables may also help keep symptoms under better control.
+- Keep pets with fur out of your home or bedrooms if animal fur triggers asthma symptoms.
+- Remove dust and mold from your house.
+- Limit your time outdoors if allergen levels are high.
+- Keep windows closed and avoid intense outdoor activity when air quality is low.
+- Take steps to avoid lung infections.
+- Avoid air pollution at home.
+- Avoid tobacco smoke, including secondhand smoke.
 
 ## Block 8
 
@@ -168,16 +157,20 @@ Source URL: https://www.nhlbi.nih.gov/health/asthma/children
 
 Important extracted text:
 
-Children may show asthma differently from adults.
+Children can have different asthma symptoms compared to adults:
 
-The source notes that children may cough in their sleep, avoid energetic activity, get tired quickly, and seem more irritable.
+- Children may cough in their sleep or wake up often.
+- They may avoid energetic activities to prevent symptoms.
+- They can get tired quickly.
 
-Diagnosing asthma in children younger than 6 years can be difficult because they often cannot do spirometry.
+It can be hard to tell whether a child under age 6 has asthma or another condition that affects breathing.
 
-Providers may rely more on symptom history and may sometimes try asthma medicines for a few months to see how the child responds.
+There is no cure for asthma, but you can take steps to manage it.
 
-Management in children includes avoiding triggers, using medicines, watching symptoms, and having an asthma action plan.
+Your child's healthcare provider will also work with you to develop an asthma action plan for your child.
 
-The source recommends giving a copy of the child's asthma action plan to school staff and other caregivers.
+For young children with asthma, call 9-1-1 if they:
 
-Emergency care is needed if a child with asthma becomes drowsy or confused, develops blue lips or skin, or has a fast heartbeat.
+- Seem drowsy, confused, or troubled
+- Have a blue tint to the skin and lips
+- Have a fast heartbeat

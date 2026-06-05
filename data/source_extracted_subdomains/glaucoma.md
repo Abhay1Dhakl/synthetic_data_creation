@@ -7,15 +7,13 @@ Source URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-di
 
 Important extracted text:
 
-Glaucoma is a group of eye diseases that can cause vision loss and blindness by damaging the optic nerve.
+Glaucoma is a group of eye diseases that can cause vision loss and blindness by damaging a nerve in the back of your eye called the optic nerve.
 
-Early glaucoma often has no symptoms.
+The symptoms can start so slowly that you may not notice them.
 
-Later symptoms may include loss of side vision, blind spots, and blindness.
+The only way to find out if you have glaucoma is to get a comprehensive dilated eye exam.
 
-The only way to know if glaucoma is present is to get a comprehensive dilated eye exam.
-
-There is no cure, but early treatment can often stop damage from getting worse and protect vision.
+There's no cure for glaucoma, but early treatment can often stop the damage and protect your vision.
 
 ## Block 2
 
@@ -24,19 +22,19 @@ Source URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-di
 
 Important extracted text:
 
-Open-angle glaucoma is the most common type in the United States.
+At first, glaucoma doesn't usually have any symptoms.
 
-Anyone can get glaucoma, but risk is higher in people who:
+Over time, you may slowly lose vision, usually starting with your side (peripheral) vision.
 
-- Are over age 60, especially Hispanic or Latino adults
+Anyone can get glaucoma, but some people are at higher risk.
+
+You're at higher risk if you:
+
+- Are over age 60, especially if you're Hispanic or Latino
 - Are African American and over age 40
 - Have a family history of glaucoma
 
-People at higher risk should talk with a doctor about how often to be checked and may need a comprehensive dilated eye exam every 1 to 2 years.
-
-Scientists are not sure what causes the most common forms of glaucoma, but many people with glaucoma have high eye pressure.
-
-Treatments that lower eye pressure can help slow the disease.
+If you're at higher risk, you need to get a comprehensive dilated eye exam every 1 to 2 years.
 
 ## Block 3
 
@@ -45,20 +43,17 @@ Source URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-di
 
 Important extracted text:
 
-At first, glaucoma usually causes no symptoms, and vision loss may happen so slowly that people do not notice it.
+Doctors use different types of treatment for glaucoma, including medicines (usually eye drops), laser treatment, and surgery.
 
-Without treatment, glaucoma can eventually cause blindness.
+If you have glaucoma, it's important to start treatment right away.
 
-Angle-closure glaucoma can cause sudden emergency symptoms such as:
+Treatment won't undo any damage to your vision, but it can stop it from getting worse.
 
-- Intense eye pain
-- Nausea
-- Red eye
-- Blurry vision
+Prescription eye drops are the most common treatment.
 
-If these sudden symptoms occur, immediate medical care is needed.
+Laser treatment can help the fluid drain out of your eye.
 
-Diagnosis is usually made with a comprehensive dilated eye exam that includes visual field testing.
+If medicines and laser treatment don't work, your doctor might suggest surgery.
 
 ## Block 4
 
@@ -67,15 +62,13 @@ Source URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/findin
 
 Important extracted text:
 
-Dilation helps an eye doctor check for common eye diseases, including glaucoma.
+Dilation helps your eye doctor check for many common eye problems, including diabetic retinopathy, glaucoma, and age-related macular degeneration.
 
-Eye drops are used to widen the pupil so the doctor can see the inside of the eye more clearly.
+For a few hours after a dilated eye exam, your vision may be blurry and you may be sensitive to light.
 
-After a dilated eye exam, vision may be blurry and eyes may be sensitive to light for a few hours.
+If your eye doctor finds signs of an eye disease, you can talk about treatment options and decide what's right for you.
 
-If signs of eye disease are found, the patient and doctor can discuss treatment options and next steps.
-
-Regular dilated eye exams are an important way to protect vision over time.
+If you're seeing clearly and there are no signs of eye disease, you're all set until your next exam.
 
 ## Block 5
 
@@ -84,25 +77,17 @@ Source URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-di
 
 Important extracted text:
 
-There are multiple types of glaucoma, and most have no early symptoms.
+Each type of glaucoma is different, but most have no early symptoms.
 
 Open-angle glaucoma is the most common type in the United States.
 
-The page also describes:
+Normal-tension glaucoma is a type of open-angle glaucoma that happens in people with normal eye pressure.
 
-- Normal-tension glaucoma
-- Angle-closure glaucoma
-- Congenital glaucoma
-- Neovascular glaucoma
-- Pigmentary glaucoma
-- Exfoliation glaucoma
-- Uveitic glaucoma
+Angle-closure glaucoma is a medical emergency.
 
-Angle-closure glaucoma is described as a medical emergency because fluid builds up quickly and can cause blindness within days if not treated.
+In congenital glaucoma, babies are born with a problem in their eye that keeps fluid from draining normally.
 
-Congenital glaucoma can cause cloudy eyes, light sensitivity, extra tearing, and larger-than-normal eyes in babies.
-
-Some secondary glaucomas are linked to underlying problems such as diabetes, high blood pressure, uveitis, injury, or exfoliation syndrome.
+Sometimes glaucoma is caused by another medical condition. This is called secondary glaucoma.
 
 ## Block 6
 
@@ -111,24 +96,15 @@ Source URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-di
 
 Important extracted text:
 
-Prescription eye drops are described as the most common treatment for glaucoma.
+The most common treatment for glaucoma is prescription eye drops.
 
-These medicines lower eye pressure and help prevent further optic nerve damage.
+They work by lowering the pressure in your eye and preventing damage to your optic nerve.
 
-They do not cure glaucoma or reverse vision loss, but they can keep it from getting worse.
+These eye drops won't cure glaucoma or reverse vision loss, but they can keep glaucoma from getting worse.
 
-The source explains that some eye drops help fluid drain from the eye, while others reduce the amount of fluid the eye makes.
+If your doctor prescribes eye drops for glaucoma, you'll need to use them every day.
 
-Possible side effects listed on the page include:
-
-- Stinging, itching, burning, or redness
-- Blurry vision
-- Changes in eye color or nearby skin
-- Headaches
-- Dry mouth
-- Changes in energy level, heartbeat, or breathing
-
-The page stresses that eye drops need to be used every day as prescribed, even though they may not make the patient feel different.
+If you don't use them as prescribed, you could lose your vision.
 
 ## Block 7
 
@@ -137,16 +113,12 @@ Source URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-di
 
 Important extracted text:
 
-Laser treatment can help treat some types of glaucoma by improving fluid drainage and lowering eye pressure.
+Laser treatment can help treat some types of glaucoma.
 
-The procedure can often be done in the office.
+It works by helping the fluid in your eye drain, which can help lower the pressure inside your eye.
 
-During treatment, the doctor numbs the eye with drops, uses a special lens, and aims a laser into the eye.
+Most people feel little or no pain or discomfort during the treatment.
 
-Most people feel little or no pain during the procedure.
+Most people can go back to their normal daily activities the day after their laser treatment.
 
-Possible side effects include swelling, soreness, corneal scratch, dryness, blurry vision, and temporary irritation.
-
-Most people can return to normal daily activities the day after treatment, but they may need someone to drive them home.
-
-The source notes that laser treatment works well for many people, but not for everyone, and some people still need glaucoma medicines or additional treatment later.
+Most people will need to keep taking glaucoma medicine even after laser treatment.

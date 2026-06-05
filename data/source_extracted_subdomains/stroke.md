@@ -7,28 +7,21 @@ Source URL: https://www.cdc.gov/stroke/signs-symptoms/?linkId=802504228
 
 Important extracted text:
 
-During a stroke, every minute counts, and fast treatment can reduce brain damage.
+During a stroke, every minute counts.
 
-Major stroke warning signs include:
+Fast treatment can lessen the brain damage that stroke can cause.
+
+By knowing the signs and symptoms of stroke, you can take quick action and perhaps save a life.
+
+The signs of stroke in men and women include:
 
 - Sudden trouble walking, dizziness, loss of balance, or lack of coordination
 - Sudden trouble seeing
-- Sudden numbness or weakness in the face, arm, or leg, especially on one side
-- Sudden confusion, trouble speaking, or trouble understanding speech
+- Sudden numbness or weakness in the face, arm, or leg, especially on one side of the body
+- Sudden confusion, trouble speaking, or difficulty understanding speech
 - Sudden severe headache with no known cause
 
-The source recommends using B.E. F.A.S.T.:
-
-- B: Balance loss
-- E: Eye or vision changes
-- F: Face drooping
-- A: Arm weakness
-- S: Speech difficulty
-- T: Time to call 9-1-1
-
-The time when symptoms first appear should be noted because it affects treatment decisions.
-
-Even if symptoms go away quickly, a transient ischemic attack can be a serious warning sign and needs urgent medical evaluation.
+Call 9-1-1 right away if you or someone else has any of these symptoms.
 
 ## Block 2
 
@@ -37,24 +30,17 @@ Source URL: https://www.cdc.gov/stroke/prevention/index.html
 
 Important extracted text:
 
-Many strokes can be prevented through healthy lifestyle changes and treatment of medical conditions that raise stroke risk.
+Many strokes can be prevented through healthy lifestyle changes and working with your health care team to control health conditions that raise your risk for stroke.
 
-Important prevention measures include:
+You can help prevent stroke by making healthy lifestyle choices:
 
-- Eating healthy foods and limiting saturated fat, trans fat, cholesterol, and sodium
-- Keeping a healthy weight
-- Getting regular physical activity
-- Not smoking
-- Limiting alcohol
+- Choose healthy foods and drinks.
+- Keep a healthy weight.
+- Get regular physical activity.
+- Don't smoke.
+- Limit alcohol.
 
-Controlling related medical conditions is also important, especially:
-
-- High cholesterol
-- High blood pressure
-- Diabetes
-- Heart disease, including atrial fibrillation
-
-Patients are advised to work with their healthcare team, follow treatment plans, and take medicines as directed.
+If you have heart disease, high cholesterol, high blood pressure, or diabetes, you can take steps to lower your risk for stroke.
 
 ## Block 3
 
@@ -63,19 +49,15 @@ Source URL: https://www.cdc.gov/stroke/treatment/index.html
 
 Important extracted text:
 
-Stroke treatment begins as soon as emergency medical services arrive.
+If someone you know shows signs of stroke, call 9-1-1 right away.
 
-Calling 9-1-1 allows treatment to begin on the way to the hospital and can speed diagnosis and treatment at a stroke center.
+Your stroke treatment begins the moment emergency medical services arrive to take you to the hospital.
 
-At the hospital, providers ask about medical history and the time symptoms started, and brain scans are used to identify the type of stroke.
+At the hospital, health professionals will ask about your medical history and the time your symptoms started.
 
-For ischemic stroke, if the patient reaches the hospital within 3 hours of first symptoms, clot-busting medicine such as tPA may be used.
+If you get to the hospital within 3 hours of the first symptoms of an ischemic stroke, you may get a type of medicine called a thrombolytic to break up blood clots.
 
-Doctors may also use blood thinners or procedures to remove a clot.
-
-For hemorrhagic stroke, treatment may require medicines, endovascular procedures, or surgery to stop bleeding and protect brain tissue.
-
-After one stroke, the risk of another stroke remains high, so long-term prevention and treatment of underlying causes are necessary.
+Other medicines, surgery, or procedures may be needed to stop the bleeding from hemorrhagic stroke and save brain tissue.
 
 ## Block 4
 
@@ -84,21 +66,23 @@ Source URL: https://www.cdc.gov/stroke/risk-factors/index.html
 
 Important extracted text:
 
-The source explains that anyone can have a stroke at any age, but risk rises with both medical conditions and lifestyle factors.
+Anyone can have a stroke at any age. But certain things can increase your chances of having a stroke.
 
-Medical conditions that raise stroke risk include:
+Many common medical conditions can increase your chances of having a stroke:
 
-- Previous stroke or transient ischemic attack
 - High blood pressure
 - High cholesterol
-- Heart disease, including coronary artery disease and atrial fibrillation
+- Heart disease
 - Diabetes
 - Obesity
 - Sickle cell disease
 
-Lifestyle factors that raise risk include unhealthy diet, too much salt, physical inactivity, drinking too much alcohol, tobacco use, and exposure to secondhand smoke.
+Your lifestyle choices can increase your risk for stroke:
 
-The source also notes that age, family history, genetics, sex, and race or ethnicity can affect stroke risk.
+- Eating a diet high in saturated fats, trans fat, and cholesterol
+- Not getting enough physical activity
+- Drinking too much alcohol
+- Tobacco use
 
 ## Block 5
 
@@ -107,17 +91,12 @@ Source URL: https://www.cdc.gov/stroke/treatment/index.html
 
 Important extracted text:
 
-After a stroke, the risk of another stroke remains high.
+If you have had a stroke, you are at high risk for another stroke.
 
-The source states that 1 in 4 stroke survivors has another stroke within 5 years.
+1 in 4 stroke survivors has another stroke within 5 years.
 
-It also notes that stroke risk within 90 days of a transient ischemic attack may be as high as 17%, with the highest risk during the first week.
+The risk of stroke within 90 days of a transient ischemic attack may be as high as 17%, with the greatest risk during the first week.
 
-Ongoing care after stroke may include:
+Your doctor may give you medications or tell you to change your diet, exercise, or adopt other healthy lifestyle habits.
 
-- Medicines
-- Diet and exercise changes
-- Other healthy lifestyle changes
-- Surgery in selected cases
-
-Treating the underlying causes of stroke is described as an important part of long-term prevention.
+That's why it's important to treat the underlying causes of stroke.

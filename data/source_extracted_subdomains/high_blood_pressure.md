@@ -7,21 +7,17 @@ Source URL: https://www.nhlbi.nih.gov/health/high-blood-pressure
 
 Important extracted text:
 
-High blood pressure, or hypertension, happens when the force of blood against the artery walls is often too high.
+High blood pressure, or hypertension, is a common condition that occurs when your blood pressure, the force of the blood on the walls of your arteries, is often too high.
 
-Blood pressure is written as systolic over diastolic, such as 120/80 mm Hg.
+Blood pressures are written as two numbers separated by a slash like this: 120/80 mm Hg.
 
-A healthy systolic pressure is less than 120 mm Hg, and a healthy diastolic pressure is less than 80 mm Hg.
+A healthy systolic blood pressure is less than 120 mm Hg. A healthy diastolic pressure is less than 80 mm Hg.
 
-High blood pressure is present when repeated readings are 130 mm Hg or higher systolic, or 80 mm Hg or higher diastolic.
+Your blood pressure is high when you have consistent systolic readings of 130 mm Hg or higher, or diastolic readings of 80 mm Hg or higher.
 
-Many adults have high blood pressure and do not know it.
+Symptoms from high blood pressure don't usually occur until it causes serious health problems.
 
-Symptoms usually do not appear until high blood pressure has already caused serious health problems.
-
-Control may require heart-healthy eating, physical activity, weight reduction, quitting smoking, stress reduction, good sleep, and medicines.
-
-Controlling blood pressure helps prevent or delay kidney disease, heart attack, heart failure, stroke, and vascular dementia.
+Controlling your blood pressure can help prevent or delay serious health problems such as chronic kidney disease, heart attack, heart failure, stroke, and possibly vascular dementia.
 
 ## Block 2
 
@@ -30,22 +26,20 @@ Source URL: https://www.nhlbi.nih.gov/health/high-blood-pressure/symptoms
 
 Important extracted text:
 
-High blood pressure usually does not cause symptoms until it becomes dangerous or causes organ damage.
+It is important to check your blood pressure readings regularly and to know your numbers. That's because high blood pressure usually does not cause symptoms until it has also caused serious problems.
 
-Blood pressure above 180/120 mm Hg requires medical attention.
+Blood pressure above 180/120 mm Hg is too high and requires medical attention.
 
-If the reading remains this high and symptoms are present, emergency care is needed right away.
+If the second measurement is also high and if you have any of these symptoms, call 9-1-1:
 
-Emergency warning symptoms include:
-
-- Sudden severe headache
+- A sudden, severe headache
 - Difficulty breathing
-- Sudden severe pain in the abdomen, chest, or back
+- Sudden, severe pain in your abdomen, chest, or back
 - Numbness or weakness
-- Sudden change in vision
+- A sudden change in vision
 - Problems talking
 
-Uncontrolled high blood pressure can lead to aneurysm, stroke, chronic kidney disease, eye damage, heart attack, heart failure, atherosclerosis, and vascular dementia.
+Undiagnosed or uncontrolled high blood pressure can lead to serious health problems such as aneurysm, stroke, chronic kidney disease, eye damage, heart attack, heart failure, atherosclerosis, and vascular dementia.
 
 ## Block 3
 
@@ -54,22 +48,20 @@ Source URL: https://www.nhlbi.nih.gov/health/high-blood-pressure/causes
 
 Important extracted text:
 
-Many factors increase the risk of high blood pressure.
+Many factors raise your risk of high blood pressure.
 
-Some risk factors can be changed through healthy lifestyle habits, while others cannot be changed.
+Other risk factors, such as age, family history and genetics, race and ethnicity, and sex, cannot be changed. But, you can still take steps to reduce your risk of high blood pressure and its complications.
 
-Nonmodifiable risk factors include older age, family history, genetics, race and ethnicity, and sex.
+Lifestyle habits can increase the risk of high blood pressure, including if you:
 
-Lifestyle-related risk factors include:
+- Eat unhealthy foods often, especially foods that are high in salt and low in potassium
+- Drink too much alcohol or caffeine
+- Don't get enough physical activity
+- Don't get enough good-quality sleep
+- Experience high-stress situations
+- Use substances such as cocaine, methamphetamine, "bath salts," or other stimulants
 
-- Eating unhealthy foods, especially high-salt foods
-- Drinking too much alcohol or caffeine
-- Not getting enough physical activity
-- Not getting enough good-quality sleep
-- Ongoing stress
-- Use of stimulant drugs
-
-Some medicines can also raise blood pressure, including antidepressants, decongestants, hormonal birth control pills, and non-steroidal anti-inflammatory drugs.
+Some medicines can make it harder for your body to control your blood pressure.
 
 ## Block 4
 
@@ -78,21 +70,24 @@ Source URL: https://www.nhlbi.nih.gov/health/high-blood-pressure/living-with
 
 Important extracted text:
 
-People diagnosed with high blood pressure need regular follow-up care and continued treatment.
+If you have been diagnosed with high blood pressure, it is important that you continue your treatment plan.
 
-Treatment plans may change over time, including medicine adjustments.
+You will need regular follow-up care and should learn how to monitor your condition at home.
 
-Key long-term management steps include:
+Keep up your treatment plan, including healthy lifestyle changes, to help control your blood pressure and prevent heart disease.
 
-- Continuing healthy lifestyle changes
-- Taking medicines regularly
-- Monitoring blood pressure at home when advised
-- Attending routine medical visits
-- Reporting new symptoms, new medicines, or pregnancy plans to the provider
+Your provider may want you to check your blood pressure at home or at other locations that have blood pressure equipment.
 
-Readings above 180/120 mm Hg are dangerously high and require immediate attention.
+Readings above 180/120 mm Hg are dangerously high and require immediate medical attention.
 
-Call emergency services if these readings are accompanied by severe headache, breathing difficulty, major pain, numbness, vision change, or speech problems.
+Call 9-1-1 if you experience:
+
+- A sudden, severe headache
+- Difficulty breathing
+- A sudden, severe pain in your abdomen, chest, or back
+- Numbness or weakness
+- A sudden change in vision
+- Problems talking
 
 ## Block 5
 
@@ -101,22 +96,21 @@ Source URL: https://www.nhlbi.nih.gov/health/high-blood-pressure/diagnosis
 
 Important extracted text:
 
-Everyone age 3 or older should have blood pressure checked by a healthcare provider at least once a year.
+Everyone who's age 3 or older should have their blood pressure checked by a healthcare provider at least once a year.
 
-Blood pressure can be measured in a clinic, office, pharmacy, or at home.
+Your provider measures your blood pressure to see if it's in a healthy range. Regular checks can also show how well treatment for high blood pressure is working.
 
-The source recommends these preparation steps before measurement:
+Prepare for the test by following a few simple steps:
 
-- Do not exercise, drink coffee, or smoke for 30 minutes before the test
-- Go to the bathroom before the test
-- Sit and relax for at least 5 minutes
-- Keep feet flat on the floor
-- Do not talk during the measurement
-- Support the arm at heart level
+- Do not exercise, drink coffee, or smoke cigarettes for 30 minutes before the test.
+- Go to the bathroom before the test.
+- For at least 5 minutes before the test, sit in a chair and relax.
+- Make sure your feet are flat on the floor.
+- Do not talk while you are relaxing or during the test.
+- Uncover your arm for the cuff.
+- Rest your arm on a table so it is supported and at the level of your heart.
 
-Readings can be affected by white coat hypertension, masked high blood pressure, and use of the wrong cuff size.
-
-Approved home blood pressure devices are recommended for self-measurement outside the clinic.
+You can also take your blood pressure at home or at a pharmacy.
 
 ## Block 6
 
@@ -125,22 +119,18 @@ Source URL: https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment
 
 Important extracted text:
 
-Treatment plans may use heart-healthy lifestyle changes alone or in combination with medicines.
+For most people with high blood pressure, a healthcare provider will work with you to develop a treatment plan that may include heart-healthy lifestyle changes alone or with medicines.
 
-The source states that lowering systolic blood pressure below 120 mm Hg can reduce the risk of serious complications.
+If you have high blood pressure, your provider may recommend that you adopt a heart-healthy lifestyle to help lower and control high blood pressure.
 
-Important lifestyle measures include:
+- Choose heart-healthy foods such as those in the DASH eating plan.
+- Avoid or limit alcohol.
+- Get regular physical activity.
+- Aim for a healthy weight.
+- Quit smoking.
+- Manage stress.
+- Get enough good-quality sleep.
 
-- Following the DASH eating plan and a low-salt eating pattern
-- Limiting alcohol
-- Getting regular physical activity
-- Working toward a healthy weight
-- Quitting smoking
-- Managing stress
-- Getting 7 to 9 hours of good-quality sleep
+When healthy lifestyle changes alone do not control or lower high blood pressure, your provider may prescribe blood pressure medicines.
 
-The source notes that losing 5% to 10% of body weight over 6 months can improve health, and even 3% to 5% weight loss can help blood pressure.
-
-When lifestyle change is not enough, medicines may be prescribed. Many people need two or more blood pressure medicines.
-
-Healthy lifestyle habits should continue even while taking medicines.
+To manage high blood pressure, many people need to take two or more medicines.

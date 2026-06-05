@@ -7,19 +7,15 @@ Source URL: https://www.nhlbi.nih.gov/health/heart-failure
 
 Important extracted text:
 
-Heart failure, also called congestive heart failure, develops when the heart does not pump enough blood for the body's needs.
+Heart failure, also known as congestive heart failure, is a condition that develops when your heart doesn't pump enough blood for your body's needs.
 
-This can happen when the heart cannot fill with enough blood or when the heart is too weak to pump properly.
+This can happen if your heart can't fill up with enough blood. It can also happen when your heart is too weak to pump properly.
 
-Heart failure does not mean that the heart has stopped, but it is a serious condition that needs medical care.
+The term "heart failure" does not mean that your heart has stopped. However, heart failure is a serious condition that needs medical care.
 
-Heart failure can be acute or chronic, and it can affect the left side, the right side, or both sides of the heart.
+Heart failure can develop suddenly (the acute kind) or over time as your heart gets weaker (the chronic kind). It can affect one or both sides of your heart.
 
-Common underlying causes include coronary heart disease, high blood pressure, heart inflammation, cardiomyopathy, and irregular heartbeat.
-
-Diagnosis is based on medical history, family history, physical examination, imaging, and blood tests.
-
-There is no cure, but treatment, devices, procedures, and healthy lifestyle changes can help many people live better.
+Currently, heart failure is a serious condition that has no cure. However, treatment such as healthy lifestyle changes, medicines, some devices, and procedures can help many people have a higher quality of life.
 
 ## Block 2
 
@@ -28,29 +24,27 @@ Source URL: https://www.nhlbi.nih.gov/health/heart-failure/symptoms
 
 Important extracted text:
 
-Symptoms depend on the type and severity of heart failure and may become worse as the heart gets weaker.
+Symptoms of heart failure depend on the type of heart failure you have and how serious it is.
 
-Shortness of breath is often one of the first symptoms. It may begin during routine activity and may later happen during dressing, walking, or lying flat.
+One of the first symptoms you may notice is feeling short of breath after routine activities like climbing stairs. As your heart grows weaker, you may notice this while getting dressed or walking across the room. Some people have shortness of breath while lying flat.
 
-Common left-sided heart failure symptoms include:
+People who have left-sided heart failure may have the following symptoms:
 
 - Trouble breathing
 - Cough
 - Fatigue
 - General weakness
-- Bluish lips or fingers
-- Sleepiness or trouble concentrating
-- Difficulty sleeping flat
+- Bluish color of finger and lips
+- Sleepiness and trouble concentrating
+- Inability to sleep lying flat
 
-Common right-sided heart failure symptoms include:
+People who have right-sided heart failure may also have the following symptoms:
 
-- Nausea or loss of appetite
-- Abdominal pain
-- Swelling in the ankles, feet, legs, abdomen, or neck veins
-- Frequent urination
+- Nausea and loss of appetite
+- Pain in your abdomen
+- Swelling in your ankles, feet, legs, abdomen, and the veins in your neck
+- Needing to pee often
 - Weight gain
-
-Heart failure can also lead to kidney or liver damage, fluid buildup around the lungs, pulmonary hypertension, irregular heartbeat, valve problems, and sudden cardiac arrest.
 
 ## Block 3
 
@@ -59,22 +53,16 @@ Source URL: https://www.nhlbi.nih.gov/health/heart-failure/living-with
 
 Important extracted text:
 
-People with heart failure usually need to follow a treatment plan for the rest of their lives.
+If you have heart failure, you will likely have to follow a treatment plan for the rest of your life. Even with treatment, heart failure often gets worse over time. However, you can take steps to have a higher quality of life.
 
-Following treatment can reduce symptoms, improve daily activities, and lower the chance of hospitalization.
+Following your treatment plan can help relieve symptoms and make daily activities easier. It also can lower the chance that you'll have to go to the hospital.
 
-Important self-management steps include:
+- Take your medicines as prescribed.
+- Make heart-healthy lifestyle changes recommended by your provider.
+- You may also be asked to limit the amount of salt and liquids that you drink to reduce fluid buildup.
+- Get medical care for other conditions that can worsen heart failure.
 
-- Taking medicines exactly as prescribed
-- Making heart-healthy lifestyle changes
-- Limiting salt and sometimes fluids if advised
-- Getting care for related problems such as obesity, diabetes, high blood pressure, sleep apnea, lung disease, kidney disease, or liver disease
-
-Patients should watch for warning signs that the condition is getting worse, such as weight gain, ankle swelling, or increasing shortness of breath.
-
-It is useful to keep emergency contacts, hospital directions, and a current medicine list ready.
-
-Living with heart failure may also cause fear, anxiety, depression, and stress, so counseling, family support, and support groups can be important.
+Watch for signs that heart failure is getting worse, such as new or worsening symptoms. Weight gain, ankle swelling, or increasing shortness of breath may mean that fluids are building up in your body.
 
 ## Block 4
 
@@ -83,21 +71,17 @@ Source URL: https://www.nhlbi.nih.gov/health/heart-failure/diagnosis
 
 Important extracted text:
 
-Heart failure is diagnosed using medical history, physical examination, and test results.
+Your doctor will diagnose heart failure based on your medical history, a physical exam, and test results.
 
-Patients are encouraged to bring a list of symptoms, when the symptoms started, how often they happen, and a list of medicines they take.
+Bring a list of your symptoms to your appointment, including how often they happen and when they started. Also, bring a list of any prescription and over-the-counter medicines you take.
 
-Blood tests may be used to check molecules such as BNP and to evaluate kidney and liver function.
+Your provider may order blood tests to check the levels of certain molecules, such as brain natriuretic peptide (BNP). Blood tests can also show how well your liver and your kidneys are working.
 
-Providers may use echocardiography or other imaging tests to measure ejection fraction.
+Your provider may order an echocardiography or other imaging tests to measure your ejection fraction.
 
-Important ejection fraction groupings in the source include:
-
-- 40% or less: heart failure with reduced ejection fraction
-- 50% or more: heart failure with preserved ejection fraction
-- 41% to 49%: borderline ejection fraction
-
-Other tests may include cardiac CT, cardiac MRI, nuclear heart scan, cardiac catheterization with coronary angiography, electrocardiogram, Holter or event monitor, and stress testing.
+- If 40% or less of the blood in your left ventricle is pumped out in one beat, you have heart failure with reduced ejection fraction.
+- If 50% or more of the blood in your left ventricle is pumped out in one beat, you have heart failure with preserved ejection fraction.
+- If your ejection fraction is somewhere in between 41% to 49%, you may be diagnosed with heart failure with borderline ejection fraction.
 
 ## Block 5
 
@@ -106,19 +90,20 @@ Source URL: https://www.nhlbi.nih.gov/health/heart-failure/causes
 
 Important extracted text:
 
-Chronic heart failure is often caused by medical conditions that damage or overwork the heart.
+Long-term, or chronic, heart failure is often caused by other medical conditions that damage or overwork your heart. Sudden, or acute, heart failure can be caused by an injury or infection that damages your heart, a heart attack, or a blood clot in your lung.
 
-Acute heart failure can be caused by heart injury, infection, heart attack, or blood clot in the lung.
+Left-sided heart failure is more common than right-sided heart failure.
 
-Left-sided heart failure with reduced ejection fraction is commonly linked to coronary heart disease, heart attack, faulty heart valves, irregular heartbeat, and congenital heart disease.
+In heart failure with reduced ejection fraction, the left side of your heart is weak and can't pump enough blood to the rest of your body.
 
-Left-sided heart failure with preserved ejection fraction is commonly linked to high blood pressure and other conditions that make the heart work harder. Obesity and diabetes can also contribute.
+In heart failure with preserved ejection fraction, the left side of your heart is too stiff to fully relax between heartbeats.
 
-Right-sided heart failure often develops after left-sided heart failure, but it can also be caused by congenital heart defects, abnormal heart valves, COPD, and other lung conditions.
+Many things can raise your risk of heart failure.
 
-Risk factors include aging, family history, unhealthy lifestyle habits, smoking, heavy alcohol use, inactivity, obesity, high blood pressure, diabetes, sleep apnea, chronic kidney disease, anemia, thyroid disease, and atrial fibrillation.
-
-The source also notes that Black and African American people are more likely to have heart failure, often at a younger age and with more severe disease.
+- Aging can weaken and stiffen your heart.
+- Family history of heart failure makes your risk of heart failure higher.
+- Unhealthy lifestyle habits increase your risk of heart failure.
+- Long-term health conditions such as obesity, high blood pressure, diabetes, sleep apnea, and chronic kidney disease raise your risk.
 
 ## Block 6
 
@@ -127,25 +112,24 @@ Source URL: https://www.nhlbi.nih.gov/health/heart-failure/treatment
 
 Important extracted text:
 
-Heart failure has no cure, but treatment can reduce symptoms and help people live longer and more actively.
+Heart failure has no cure. But treatment can help you live a longer, more active life with fewer symptoms.
 
-Important lifestyle measures include:
+Your provider may recommend these heart-healthy lifestyle changes alone or as part of a cardiac rehabilitation plan:
 
-- Lowering sodium intake
-- Aiming for a healthy weight
-- Getting physical activity as advised
-- Quitting smoking
-- Avoiding or limiting alcohol
-- Managing blood pressure, heart rhythm, anemia, stress, and sleep problems
+- Lower your sodium (salt) intake.
+- Aim for a healthy weight.
+- Get regular physical activity.
+- Quit smoking.
+- Avoid or limit alcohol.
+- Manage contributing risk factors.
+- Manage stress.
+- Get good-quality sleep.
 
-For heart failure with reduced ejection fraction, medicines may include:
+The following medicines are commonly used to treat heart failure with reduced ejection fraction:
 
 - Diuretics and aldosterone antagonists
-- ACE inhibitors or ARBs
-- Beta blockers
-- Ivabradine
-- Digoxin in selected severe cases
+- ACE inhibitors and angiotensin receptor blockers
+- Beta blockers and ivabradine
+- Digoxin
 
-For preserved ejection fraction, diuretics and blood pressure medicines are described as main treatments.
-
-If heart failure worsens, devices or procedures may be needed, such as a biventricular pacemaker, ventricular assist device, total artificial heart, implantable cardioverter defibrillator, heart surgery, or heart transplant.
+If heart failure with reduced ejection fraction worsens, you may need a biventricular pacemaker, a ventricular assist device, an implantable cardioverter defibrillator, heart surgery, or a heart transplant.

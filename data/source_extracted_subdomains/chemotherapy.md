@@ -7,13 +7,13 @@ Source URL: https://www.cancer.gov/about-cancer/treatment/types/chemotherapy
 
 Important extracted text:
 
-Chemotherapy, also called chemo, is a type of cancer treatment that uses drugs to kill cancer cells.
+Chemotherapy (also called chemo) is a type of cancer treatment that uses drugs to kill cancer cells.
 
 Chemotherapy works by killing or stopping the growth of cancer and other fast-growing cells.
 
-It may be used to cure cancer, reduce the chance that cancer will return, or stop or slow its growth.
+Chemotherapy can be used to cure cancer, lessen the chance it will return, or stop or slow its growth.
 
-Chemotherapy may also be used to shrink tumors that are causing pain or other symptoms.
+Chemotherapy can be used to shrink tumors that are causing pain and other problems.
 
 ## Block 2
 
@@ -24,16 +24,14 @@ Important extracted text:
 
 Chemotherapy is used to treat many types of cancer.
 
-For some people, chemotherapy is the only treatment, but it is often combined with other cancer treatments.
+For some people, chemotherapy may be the only treatment you receive. But most often, you will have chemotherapy with other cancer treatments.
 
-When combined with other treatments, chemotherapy may:
+When used with other treatments, chemotherapy can:
 
 - Make a tumor smaller before surgery or radiation therapy
-- Destroy cancer cells that remain after surgery or radiation therapy
+- Destroy cancer cells that may remain after surgery or radiation therapy
 - Help other treatments work better
-- Kill cancer cells that have returned or spread
-
-The exact treatment plan depends on the type of cancer, whether it has spread, and other health problems.
+- Kill cancer cells that have returned or spread to other parts of your body
 
 ## Block 3
 
@@ -42,19 +40,17 @@ Source URL: https://www.cancer.gov/about-cancer/treatment/types/chemotherapy
 
 Important extracted text:
 
-Chemotherapy can damage healthy fast-growing cells as well as cancer cells.
+Chemotherapy not only kills fast-growing cancer cells, but also kills or slows the growth of healthy cells that grow and divide quickly.
 
-This can cause side effects such as mouth sores, nausea, hair loss, and fatigue.
+Damage to healthy cells may cause side effects, such as mouth sores, nausea, and hair loss.
 
-Fatigue is described as the most common side effect.
+The most common side effect is fatigue, which is feeling exhausted and worn out.
 
-The source suggests practical preparation measures such as:
+You can prepare for fatigue by:
 
-- Arranging transportation to and from chemotherapy
-- Planning extra rest on the day of treatment and the next day
+- Asking someone to drive you to and from chemotherapy
+- Planning time to rest on the day of and day after chemotherapy
 - Asking for help with meals and childcare
-
-Side effects often get better or go away after chemotherapy ends.
 
 ## Block 4
 
@@ -63,54 +59,39 @@ Source URL: https://www.cancer.gov/about-cancer/treatment/types/chemotherapy
 
 Important extracted text:
 
-Chemotherapy can be given in many ways, including:
+Chemotherapy may be given in many ways. Some common ways include:
 
-- Oral medicines
-- Intravenous infusion
+- Oral
+- Intravenous (IV)
 - Injection
-- Intrathecal treatment
-- Intraperitoneal treatment
-- Intra-arterial treatment
-- Topical treatment
+- Intrathecal
+- Intraperitoneal (IP)
+- Intra-arterial (IA)
+- Topical
 
-It is most often given by IV through a needle in a vein.
+Of all the methods mentioned above, chemotherapy is most often given with an IV, through a thin needle that is placed in a vein on your hand or lower arm.
 
-IV chemotherapy may also be given through catheters or ports, sometimes with a pump.
-
-How chemotherapy affects a patient depends on the type of chemotherapy, the dose, the type of cancer, and the person's overall condition.
-
-Side effects do not show whether chemotherapy is working well or poorly.
+IV chemotherapy may also be given through catheters or ports, sometimes with the help of a pump.
 
 ## Block 5
 
-Source title: Side Effects of Cancer Treatment - NCI  
-Source URL: https://www.cancer.gov/about-cancer/treatment/side-effects
+Source title: Chemotherapy to Treat Cancer - NCI  
+Source URL: https://www.cancer.gov/about-cancer/treatment/types/chemotherapy
 
 Important extracted text:
 
-Cancer treatments and cancer can cause side effects when treatment affects healthy tissues or organs.
+Treatment schedules for chemotherapy vary widely.
 
-Patients are advised to tell the healthcare team about side effects so they can receive treatment and guidance for symptom management.
+How often and how long you get chemotherapy depends on:
 
-The source lists many side effect areas, including:
+- Your type of cancer and how advanced it is
+- Whether chemotherapy is used to cure your cancer, control cancer's growth, or ease symptoms
+- The type of chemotherapy you are getting
+- How your body responds to the chemotherapy
 
-- Anemia
-- Bleeding and bruising
-- Constipation
-- Diarrhea
-- Fatigue
-- Hair loss
-- Infection and neutropenia
-- Mouth and throat problems
-- Nausea and vomiting
-- Nerve problems
-- Nutrition problems
-- Pain
-- Skin and nail changes
-- Sleep problems
-- Urinary and bladder problems
+You may receive chemotherapy in cycles. A cycle is a period of chemotherapy treatment followed by a period of rest.
 
-Side effects vary from person to person, even among people receiving the same type of treatment.
+You cannot tell if chemotherapy is working based on its side effects.
 
 ## Block 6
 
@@ -119,16 +100,16 @@ Source URL: https://www.cancer.gov/about-cancer/treatment/types/chemotherapy
 
 Important extracted text:
 
-Chemotherapy costs depend on several factors, including:
+The cost of chemotherapy depends on:
 
-- Which drugs and doses are used
-- How long and how often treatment is given
-- Whether treatment is given at home, in a clinic, or in a hospital
-- Where the patient lives
+- The types and doses of chemotherapy used
+- How long and how often chemotherapy is given
+- Whether you get chemotherapy at home, in a clinic or office, or during a hospital stay
+- The part of the country where you live
 
-The source advises patients to talk with their health insurance company and the treatment center's business office about coverage.
+Talk with your health insurance company about what services it will pay for.
 
-NCI's Cancer Information Service is listed as a possible place to ask about financial help resources.
+If you need financial assistance, there are organizations that may be able to help.
 
 ## Block 7
 
@@ -137,17 +118,15 @@ Source URL: https://www.cancer.gov/about-cancer/treatment/types/chemotherapy
 
 Important extracted text:
 
-Chemotherapy is often given in cycles, which means a treatment period followed by a rest period.
+Chemotherapy can damage the healthy cells that line your mouth and intestines and cause eating problems.
 
-The rest period gives the body time to recover and build new healthy cells.
+Tell your doctor or nurse if you have trouble eating while you are receiving chemotherapy.
 
-The source notes that chemotherapy affects people differently depending on the drug type, dose, cancer type, stage, and the person's general health before treatment.
+You might also find it helpful to speak with a dietitian.
 
-Doctors monitor whether chemotherapy is working through follow-up visits, physical examination, blood tests, and scans such as MRI, CT, or PET.
+Many people can work during chemotherapy, as long as they match their work schedule to how they feel.
 
-The page also states that side effects do not show whether chemotherapy is working.
-
-During treatment, some people can continue working, sometimes with part-time or work-from-home adjustments.
+If your job allows, you may want to see if you can work part-time or from home on days you do not feel well.
 
 ## Block 8
 
@@ -156,15 +135,15 @@ Source URL: https://www.cancer.gov/publications/patient-education/chemo-and-you
 
 Important extracted text:
 
-This NCI patient booklet is intended for people who are about to receive or are already receiving chemotherapy, and it may also be useful for family and friends.
+Chemotherapy and You is for people who are about to receive or are now receiving chemotherapy for cancer.
 
-The booklet is described as a guide that can be used before, during, and after chemotherapy treatment.
+This booklet is a guide you can refer to throughout your chemotherapy treatment.
 
-According to the source, it includes:
+It includes facts about chemotherapy and its side effects.
 
-- Basic questions and answers about chemotherapy
-- Information on side effects and how they may be managed
-- Tips for meeting with doctors and nurses
-- Ways to find more information in print, online, and by phone
+This booklet covers:
 
-The page encourages patients to talk with their doctor or nurse about what to expect and which parts of the booklet are most relevant to their treatment.
+- Questions and answers about chemotherapy
+- Side effects and ways to manage them
+- Tips for meeting with your doctor or nurse
+- Ways to learn more

@@ -7,19 +7,15 @@ Source URL: https://www.nhlbi.nih.gov/health/coronary-heart-disease
 
 Important extracted text:
 
-Heart disease is a general term for conditions that affect the heart's structure and how it works.
+Heart disease is a general term for conditions that affect the heart's structure and how it works. Heart disease is the leading cause of death in the United States.
 
-Coronary heart disease is a type of heart disease that occurs when the arteries of the heart cannot deliver enough oxygen-rich blood to the heart muscle because of narrowing from plaque buildup. It is also called coronary artery disease or ischemic heart disease.
+Coronary heart disease is a type of heart disease that occurs when the arteries of the heart cannot deliver enough oxygen-rich blood to the heart muscle due to narrowing from the buildup of fatty deposits called plaque. It is also sometimes called coronary artery disease or ischemic heart disease.
 
 Coronary heart disease is the most common type of heart disease.
 
-Many people do not know they have the disease until they develop chest pain, a heart attack, or cardiac arrest.
+Symptoms of coronary heart disease vary from person to person. But many people don't know they have the disease until they have chest pain; the blood flow to their heart is blocked, causing a heart attack; or their heart suddenly stops pumping blood, also known as cardiac arrest.
 
-Coronary heart disease is caused by cholesterol-rich plaque that builds up in the coronary arteries and partly or completely blocks blood flow.
-
-Your healthcare provider will diagnose coronary heart disease based on symptoms, medical and family history, risk factors, and heart tests.
-
-Treatment may include heart-healthy lifestyle changes, medicines, surgery, or a combination of these.
+Your healthcare provider will diagnose coronary heart disease based on your symptoms, your medical and family history, your risk factors, and the results from heart tests.
 
 ## Block 2
 
@@ -28,19 +24,17 @@ Source URL: https://www.nhlbi.nih.gov/health/coronary-heart-disease/risk-factors
 
 Important extracted text:
 
-The risk of coronary heart disease increases with the number and severity of risk factors.
+Your risk of coronary heart disease increases based on the number of risk factors you have and how serious they are.
 
-Some risk factors can be changed, such as high blood pressure, unhealthy cholesterol levels, and smoking.
+Some risk factors such as high blood pressure and unhealthy cholesterol levels can be adjusted through heart-healthy lifestyle changes. Other risk factors, such as your age, family history, and race and ethnicity, cannot be changed.
 
-Three key risk factors are:
+Almost half of adults in the United States have at least one of three key risk factors for coronary heart disease:
 
 - High blood pressure
 - High cholesterol
 - Smoking
 
-Other important risk factors include older age, family history of early heart disease, diabetes, obesity, physical inactivity, poor sleep, stress, and unhealthy eating habits.
-
-Heart-healthy lifestyle changes can lower risk even when some risk factors cannot be changed.
+No matter what risk factors you may have, you can take steps to protect your heart health with a heart-healthy lifestyle and other treatments.
 
 ## Block 3
 
@@ -49,34 +43,20 @@ Source URL: https://www.nhlbi.nih.gov/health/coronary-heart-disease/treatment
 
 Important extracted text:
 
-Treatment for coronary heart disease depends on symptom severity and other health conditions.
+Treatment for coronary heart disease depends on how serious your symptoms are and any other health conditions you have.
 
-Treatment may include heart-healthy lifestyle changes, medicines, or procedures to prevent a heart attack or other complications.
+If your healthcare provider diagnoses you with coronary heart disease, treatment may include heart-healthy lifestyle changes, medicines, or procedures to prevent a heart attack or other health problems.
 
-Important lifestyle measures include:
+Your provider may recommend adopting lifelong heart-healthy lifestyle changes such as the following:
 
-- Choosing heart-healthy foods
-- Being physically active
-- Quitting smoking
-- Getting enough quality sleep
-- Aiming for a healthy weight
-- Checking blood pressure and cholesterol
-- Controlling blood sugar
-- Managing stress
-
-Important medicines may include:
-
-- ACE inhibitors, beta blockers, and angiotensin-receptor blockers
-- Calcium channel blockers
-- Nitrates such as nitroglycerin
-- Statins
-- Other cholesterol-lowering medicines
-- Low-dose aspirin in selected patients
-
-Important procedures may include:
-
-- Percutaneous coronary intervention (PCI), also called coronary angioplasty
-- Coronary artery bypass grafting (CABG)
+- Choose heart-healthy foods.
+- Be physically active.
+- Quit smoking.
+- Get enough quality sleep.
+- Aim for a healthy weight.
+- Get your blood pressure and cholesterol checked.
+- Control your glucose (sugar in your blood).
+- Manage stress.
 
 ## Block 4
 
@@ -85,17 +65,15 @@ Source URL: https://www.nhlbi.nih.gov/health/coronary-heart-disease/living-with
 
 Important extracted text:
 
-It is important to get routine medical care and take medicines as prescribed.
+It is important to get routine medical care and take all medicines regularly, as your healthcare provider prescribed, as part of your treatment plan.
 
-Patients should talk with their provider about follow-up visits, blood tests, and any new or worsening symptoms.
+- Follow your provider's directions. Do not change the amount of your medicine or skip a dose unless your provider tells you to.
+- Talk to your provider about how often to schedule office visits and blood tests.
+- Call your provider if you have any new symptoms, if your symptoms worsen, or if you have problems with your blood pressure or blood sugar.
 
-Cardiac rehabilitation is a medically supervised exercise program that can lower the risk of hospitalization and death and improve quality of life.
+Your provider may refer you for cardiac rehabilitation, which is a medically supervised exercise program for people recovering from heart problems. Studies show that cardiac rehabilitation lowers the risk of hospitalization and death. It can also improve your quality of life.
 
-People with coronary heart disease should continue heart-healthy lifestyle changes and manage related conditions such as diabetes, high blood pressure, and high cholesterol.
-
-Quitting smoking lowers future risk.
-
-Serious complications can include angina, arrhythmia, cardiac arrest, heart attack, heart failure, and stroke.
+There are benefits to quitting smoking, no matter how long or how much you have smoked. The risk of coronary heart disease from smoking begins to decrease soon after you quit, and it generally continues to decrease over time.
 
 ## Block 5
 
@@ -104,22 +82,22 @@ Source URL: https://www.nhlbi.nih.gov/health/coronary-artery-bypass-grafting/rec
 
 Important extracted text:
 
-After CABG, patients usually stay in the hospital for about 1 week and may spend 1 or 2 days in an intensive care unit.
+After coronary artery bypass grafting (CABG), you will stay in the hospital for about 1 week. You may stay longer if you had other procedures done as well, or if you have a complication.
 
-Medical staff may monitor heart rhythm, vital signs, oxygen levels, and recovery from surgery.
+After you leave the hospital, you will need about 6 to 12 weeks to recover completely.
 
-After leaving the hospital, full recovery may take about 6 to 12 weeks.
+Common side effects from surgery, which should go away in 4 to 6 weeks, include:
 
-Common short-term side effects include:
-
-- Chest pain near the surgical cut
+- Chest pain around the site of the surgical cut
 - Constipation
+- Discomfort or itching from healing cuts
 - Loss of appetite
-- Mood changes
-- Sleep problems and tiredness
-- Swelling where the graft was taken
+- Mood swings or depression
+- Muscle pain or tightness in the shoulders and upper back
+- Problems sleeping and extreme tiredness
+- Swelling of the area where an artery or vein was removed for grafting
 
-After CABG, patients may need medicines for blood pressure, heart rhythm, blood clots, fluid control, and cholesterol.
+Cardiac rehabilitation is a medically supervised program for people recovering from heart problems. Cardiac rehabilitation involves adopting heart-healthy lifestyle changes to lower your risk for more heart and blood vessel diseases.
 
 ## Block 6
 
@@ -128,21 +106,20 @@ Source URL: https://www.cdc.gov/heart-disease/about/heart-attack.html
 
 Important extracted text:
 
-A heart attack happens when part of the heart muscle does not get enough blood.
+A heart attack, also called a myocardial infarction, happens when a part of the heart muscle doesn't get enough blood.
 
-The longer treatment is delayed, the greater the damage to the heart muscle.
+The more time that passes without treatment to restore blood flow, the greater the damage to the heart muscle.
 
-Coronary heart disease is the main cause of heart attack.
+Coronary heart disease (CHD) is the main cause of heart attack.
 
-Major heart attack symptoms include:
+The major symptoms of a heart attack are:
 
-- Chest pain or discomfort
-- Weakness, light-headedness, or fainting
-- Pain in the jaw, neck, or back
-- Pain in one or both arms or shoulders
-- Shortness of breath
-- Unusual tiredness, nausea, or vomiting
+- Chest pain or discomfort.
+- Feeling weak, light-headed, or faint.
+- Pain or discomfort in the jaw, neck, or back.
+- Pain or discomfort in one or both arms or shoulders.
+- Shortness of breath.
 
-If heart attack symptoms appear, call 9-1-1 immediately.
+If you notice the symptoms of a heart attack in yourself or someone else, call 9-1-1 immediately.
 
-After a heart attack, recovery may include physical activity guidance, medicines, lifestyle changes, and cardiac rehabilitation.
+Cardiac rehabilitation is an important program for anyone recovering from a heart attack, heart failure, or other heart problem that required surgery or medical care.
