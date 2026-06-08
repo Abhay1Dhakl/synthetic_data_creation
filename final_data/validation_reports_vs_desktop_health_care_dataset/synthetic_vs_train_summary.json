@@ -1,0 +1,757 @@
+{
+  "synthetic_path": "final_data/final_collected_synthetic_data.jsonl",
+  "train_path": "/Users/abhaydhakal/Desktop/health_care_dataset/train.jsonl",
+  "synthetic_records": 1100,
+  "train_records": 15381,
+  "synthetic_json_errors": 0,
+  "train_json_errors": 0,
+  "all_synthetic_flags_true": true,
+  "train_source_datasets": {
+    "null": 9434,
+    "pregnancy_qa": 4155,
+    "medicaldataset": 1432,
+    "health_forum": 360
+  },
+  "exact_en_sentence_matches": 0,
+  "exact_ne_sentence_matches": 1,
+  "exact_en_sentence_match_percent": 0.0,
+  "exact_ne_sentence_match_percent": 0.09,
+  "best_en_jaccard": {
+    "avg": 0.2285,
+    "median": 0.2222,
+    "max": 1.0,
+    "ge_0_8": 2,
+    "ge_0_6": 2,
+    "ge_0_4": 47
+  },
+  "best_ne_jaccard": {
+    "avg": 0.1838,
+    "median": 0.1703,
+    "max": 1.0,
+    "ge_0_8": 1,
+    "ge_0_6": 1,
+    "ge_0_4": 9
+  },
+  "best_en_containment": {
+    "avg": 0.315,
+    "median": 0.2857,
+    "max": 1.0,
+    "ge_0_8": 5,
+    "ge_0_6": 28,
+    "ge_0_4": 211
+  },
+  "best_ne_containment": {
+    "avg": 0.2699,
+    "median": 0.25,
+    "max": 1.0,
+    "ge_0_8": 1,
+    "ge_0_6": 5,
+    "ge_0_4": 92
+  },
+  "synthetic_en_vocab_size": 1884,
+  "train_en_vocab_size": 22253,
+  "synthetic_ne_vocab_size": 2097,
+  "train_ne_vocab_size": 41408,
+  "synthetic_en_vocab_in_train_percent": 90.87,
+  "synthetic_ne_vocab_in_train_percent": 80.64,
+  "synthetic_en_token_mass_in_train_percent": 96.84,
+  "synthetic_ne_token_mass_in_train_percent": 92.4,
+  "top_synthetic_en_tokens_also_in_train": [
+    [
+      "blood",
+      175,
+      1885
+    ],
+    [
+      "heart",
+      170,
+      652
+    ],
+    [
+      "patients",
+      144,
+      247
+    ],
+    [
+      "help",
+      113,
+      1554
+    ],
+    [
+      "pressure",
+      96,
+      600
+    ],
+    [
+      "treatment",
+      91,
+      1171
+    ],
+    [
+      "eye",
+      89,
+      114
+    ],
+    [
+      "care",
+      78,
+      1511
+    ],
+    [
+      "symptoms",
+      76,
+      1417
+    ],
+    [
+      "patient",
+      76,
+      220
+    ],
+    [
+      "kidney",
+      75,
+      411
+    ],
+    [
+      "diabetes",
+      64,
+      288
+    ],
+    [
+      "risk",
+      63,
+      731
+    ],
+    [
+      "stroke",
+      60,
+      65
+    ],
+    [
+      "medicines",
+      59,
+      219
+    ],
+    [
+      "asthma",
+      57,
+      156
+    ],
+    [
+      "people",
+      56,
+      564
+    ],
+    [
+      "high",
+      56,
+      634
+    ],
+    [
+      "chemotherapy",
+      53,
+      35
+    ],
+    [
+      "failure",
+      50,
+      87
+    ],
+    [
+      "vision",
+      48,
+      61
+    ],
+    [
+      "glaucoma",
+      48,
+      2
+    ],
+    [
+      "disease",
+      44,
+      523
+    ],
+    [
+      "reduce",
+      42,
+      646
+    ],
+    [
+      "medicine",
+      41,
+      433
+    ]
+  ],
+  "top_synthetic_ne_tokens_also_in_train": [
+    [
+      "सक्छ।",
+      527,
+      4084
+    ],
+    [
+      "हृदय",
+      141,
+      183
+    ],
+    [
+      "बिरामीले",
+      133,
+      35
+    ],
+    [
+      "मद्दत",
+      107,
+      1827
+    ],
+    [
+      "लक्षण",
+      91,
+      460
+    ],
+    [
+      "औषधि",
+      88,
+      1111
+    ],
+    [
+      "उपचार",
+      83,
+      1598
+    ],
+    [
+      "रक्तचाप",
+      78,
+      386
+    ],
+    [
+      "सक्छन्।",
+      75,
+      557
+    ],
+    [
+      "जोखिम",
+      75,
+      663
+    ],
+    [
+      "मिर्गौला",
+      69,
+      185
+    ],
+    [
+      "हेरचाह",
+      68,
+      807
+    ],
+    [
+      "प्रयोग",
+      66,
+      2228
+    ],
+    [
+      "मधुमेह",
+      66,
+      290
+    ],
+    [
+      "भनेर",
+      62,
+      633
+    ],
+    [
+      "हुन्छ।",
+      61,
+      965
+    ],
+    [
+      "आँखा",
+      60,
+      152
+    ],
+    [
+      "उच्च",
+      55,
+      877
+    ],
+    [
+      "दृष्टि",
+      52,
+      36
+    ],
+    [
+      "स्ट्रोक",
+      52,
+      42
+    ],
+    [
+      "बिरामीलाई",
+      51,
+      108
+    ],
+    [
+      "हो।",
+      49,
+      1144
+    ],
+    [
+      "बेला",
+      46,
+      180
+    ],
+    [
+      "हुने",
+      45,
+      1460
+    ],
+    [
+      "रूपमा",
+      44,
+      1190
+    ]
+  ],
+  "highest_en_similarity_examples": [
+    {
+      "synthetic_id": "high_blood_pressure_mt_0002",
+      "subdomain": "high_blood_pressure",
+      "synthetic_en": "High blood pressure is also called hypertension.",
+      "best_train_en_line": 13783,
+      "best_train_en_id": "PAIR_0004451",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 1.0,
+      "best_train_en_containment": 1.0,
+      "best_train_en": "High Blood Pressure High blood pressure is also called hypertension."
+    },
+    {
+      "synthetic_id": "diabetes_mt_0024",
+      "subdomain": "diabetes",
+      "synthetic_en": "Prediabetes means blood glucose is higher than normal but not high enough for diabetes.",
+      "best_train_en_line": 10344,
+      "best_train_en_id": "PAIR_0000010",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.8,
+      "best_train_en_containment": 0.8,
+      "best_train_en": "• With prediabetes, your glucose is higher than normal, but not high enough to be called diabetes."
+    },
+    {
+      "synthetic_id": "diabetes_mt_0031",
+      "subdomain": "diabetes",
+      "synthetic_en": "Diabetes can affect the heart, eyes, kidneys, and nerves.",
+      "best_train_en_line": 10347,
+      "best_train_en_id": "PAIR_0000013",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.5714,
+      "best_train_en_containment": 0.6667,
+      "best_train_en": "It can damage your eyes, kidneys, heart, and nerves."
+    },
+    {
+      "synthetic_id": "coronary_heart_disease_mt_0055",
+      "subdomain": "coronary_heart_disease",
+      "synthetic_en": "Shortness of breath can occur with or without chest pain during a heart attack.",
+      "best_train_en_line": 11331,
+      "best_train_en_id": "PAIR_0001415",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.5714,
+      "best_train_en_containment": 0.5714,
+      "best_train_en": "• Shortness of breath or chest pain"
+    },
+    {
+      "synthetic_id": "asthma_mt_0040",
+      "subdomain": "asthma",
+      "synthetic_en": "People with asthma should avoid tobacco smoke and secondhand smoke.",
+      "best_train_en_line": 13638,
+      "best_train_en_id": "PAIR_0004297",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.5556,
+      "best_train_en_containment": 0.7143,
+      "best_train_en": "• Do not smoke or use tobacco products and avoid other people's tobacco smoke."
+    },
+    {
+      "synthetic_id": "chemotherapy_mt_0006",
+      "subdomain": "chemotherapy",
+      "synthetic_en": "Chemotherapy after surgery may help kill cancer cells that remain in the body.",
+      "best_train_en_line": 12150,
+      "best_train_en_id": "PAIR_0002316",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.5455,
+      "best_train_en_containment": 0.75,
+      "best_train_en": "It may be done before surgery to shrink a tumor or after surgery to kill cancer cells that may have spread or that remain in the body."
+    },
+    {
+      "synthetic_id": "diabetes_mt_0045",
+      "subdomain": "diabetes",
+      "synthetic_en": "A fasting plasma glucose test measures blood glucose after not eating for a period of time.",
+      "best_train_en_line": 10362,
+      "best_train_en_id": "PAIR_0000029",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.5455,
+      "best_train_en_containment": 0.6667,
+      "best_train_en": "• A fasting plasma glucose (FPG) test, also called fasting blood glucose, measures blood sugar."
+    },
+    {
+      "synthetic_id": "brachytherapy_mt_0089",
+      "subdomain": "brachytherapy",
+      "synthetic_en": "Sanitary pads may be recommended instead of tampons after treatment.",
+      "best_train_en_line": 10935,
+      "best_train_en_id": "PAIR_0000799",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.5,
+      "best_train_en_containment": 0.6667,
+      "best_train_en": "Use sanitary pads instead of tampons during this time."
+    },
+    {
+      "synthetic_id": "chronic_kidney_disease_mt_0020",
+      "subdomain": "chronic_kidney_disease",
+      "synthetic_en": "Albumin in the urine can be an early sign of kidney damage.",
+      "best_train_en_line": 10604,
+      "best_train_en_id": "PAIR_0000399",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.5,
+      "best_train_en_containment": 0.6667,
+      "best_train_en": "If protein is found in the urine, it can be a sign of kidney damage."
+    },
+    {
+      "synthetic_id": "diabetes_mt_0032",
+      "subdomain": "diabetes",
+      "synthetic_en": "Managing diabetes can help prevent or delay long-term health problems.",
+      "best_train_en_line": 10563,
+      "best_train_en_id": "PAIR_0000358",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.5,
+      "best_train_en_containment": 0.625,
+      "best_train_en": "Managing Your Diabetes Manage your diabetes to prevent eye and other health problems."
+    },
+    {
+      "synthetic_id": "diabetes_mt_0012",
+      "subdomain": "diabetes",
+      "synthetic_en": "Insulin helps move glucose from the blood into the body's cells.",
+      "best_train_en_line": 10339,
+      "best_train_en_id": "PAIR_0000005",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.4545,
+      "best_train_en_containment": 0.7143,
+      "best_train_en": "It helps glucose move from your blood into your cells, so your body can use it for energy."
+    },
+    {
+      "synthetic_id": "high_blood_pressure_mt_0051",
+      "subdomain": "high_blood_pressure",
+      "synthetic_en": "A patient should learn how to use a home blood pressure monitor correctly.",
+      "best_train_en_line": 10609,
+      "best_train_en_id": "PAIR_0000404",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.4545,
+      "best_train_en_containment": 0.625,
+      "best_train_en": "Use a home blood pressure monitor to check your blood pressure between doctor visits."
+    },
+    {
+      "synthetic_id": "high_blood_pressure_mt_0008",
+      "subdomain": "high_blood_pressure",
+      "synthetic_en": "Consistent readings of 130 over 80 or higher can suggest high blood pressure.",
+      "best_train_en_line": 13784,
+      "best_train_en_id": "PAIR_0004452",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.4545,
+      "best_train_en_containment": 0.5556,
+      "best_train_en": "High blood pressure is 130 or higher over 80 or higher."
+    },
+    {
+      "synthetic_id": "chronic_kidney_disease_mt_0007",
+      "subdomain": "chronic_kidney_disease",
+      "synthetic_en": "High blood pressure can damage the blood vessels inside the kidneys.",
+      "best_train_en_line": 10548,
+      "best_train_en_id": "PAIR_0000343",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.4444,
+      "best_train_en_containment": 0.5714,
+      "best_train_en": "If you also have high blood pressure, this can further damage the blood vessels."
+    },
+    {
+      "synthetic_id": "heart_failure_mt_0049",
+      "subdomain": "heart_failure",
+      "synthetic_en": "High blood pressure can raise the risk of heart failure.",
+      "best_train_en_line": 4665,
+      "best_train_en_id": "PAIR_0053013",
+      "best_train_en_source_dataset": "medicaldataset",
+      "best_train_en_jaccard": 0.4444,
+      "best_train_en_containment": 0.5714,
+      "best_train_en": "How can I control high blood pressure and heart rate?"
+    },
+    {
+      "synthetic_id": "heart_failure_mt_0087",
+      "subdomain": "heart_failure",
+      "synthetic_en": "Blood pressure control is important for many people with heart failure.",
+      "best_train_en_line": 4665,
+      "best_train_en_id": "PAIR_0053013",
+      "best_train_en_source_dataset": "medicaldataset",
+      "best_train_en_jaccard": 0.4444,
+      "best_train_en_containment": 0.5714,
+      "best_train_en": "How can I control high blood pressure and heart rate?"
+    },
+    {
+      "synthetic_id": "high_blood_pressure_mt_0015",
+      "subdomain": "high_blood_pressure",
+      "synthetic_en": "High blood pressure can increase the risk of heart failure.",
+      "best_train_en_line": 4665,
+      "best_train_en_id": "PAIR_0053013",
+      "best_train_en_source_dataset": "medicaldataset",
+      "best_train_en_jaccard": 0.4444,
+      "best_train_en_containment": 0.5714,
+      "best_train_en": "How can I control high blood pressure and heart rate?"
+    },
+    {
+      "synthetic_id": "heart_failure_mt_0081",
+      "subdomain": "heart_failure",
+      "synthetic_en": "Chest pain with breathing trouble needs immediate medical evaluation.",
+      "best_train_en_line": 10922,
+      "best_train_en_id": "PAIR_0000785",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.4444,
+      "best_train_en_containment": 0.5,
+      "best_train_en": "• Chest pain, trouble breathing, or a seizure."
+    },
+    {
+      "synthetic_id": "high_blood_pressure_mt_0098",
+      "subdomain": "high_blood_pressure",
+      "synthetic_en": "High blood pressure care includes monitoring, risk reduction, treatment, and follow-up.",
+      "best_train_en_line": 13821,
+      "best_train_en_id": "PAIR_0004489",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.4444,
+      "best_train_en_containment": 0.4444,
+      "best_train_en": "Your care If you have high blood pressure:"
+    },
+    {
+      "synthetic_id": "chemotherapy_mt_0013",
+      "subdomain": "chemotherapy",
+      "synthetic_en": "Fatigue is a common side effect of chemotherapy.",
+      "best_train_en_line": 12152,
+      "best_train_en_id": "PAIR_0002318",
+      "best_train_en_source_dataset": null,
+      "best_train_en_jaccard": 0.4286,
+      "best_train_en_containment": 0.6,
+      "best_train_en": "The most common side effect is signs of menopause."
+    }
+  ],
+  "highest_ne_similarity_examples": [
+    {
+      "synthetic_id": "high_blood_pressure_mt_0002",
+      "subdomain": "high_blood_pressure",
+      "synthetic_ne": "उच्च रक्तचापलाई हाइपरटेन्सन पनि भनिन्छ।",
+      "best_train_ne_line": 13783,
+      "best_train_ne_id": "PAIR_0004451",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 1.0,
+      "best_train_ne_containment": 1.0,
+      "best_train_ne": "उच्च रक्तचापलाई हाइपरटेन्सन पनि भनिन्छ।"
+    },
+    {
+      "synthetic_id": "chronic_kidney_disease_mt_0046",
+      "subdomain": "chronic_kidney_disease",
+      "synthetic_ne": "अचानक सुन्निनु वा सास फेर्न गाह्रो हुनु छिटो जानकारी गराउनुपर्छ।",
+      "best_train_ne_line": 14842,
+      "best_train_ne_id": "PAIR_0005785",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.5,
+      "best_train_ne_containment": 0.5556,
+      "best_train_ne": "• सास फेर्न गाह्रो हुनु वा छिटो सास फेर्नु"
+    },
+    {
+      "synthetic_id": "cataracts_mt_0059",
+      "subdomain": "cataracts",
+      "synthetic_ne": "उमेरसँग सम्बन्धित मोतिबिन्दु मोतिबिन्दुको सबैभन्दा सामान्य प्रकार हो।",
+      "best_train_ne_line": 15134,
+      "best_train_ne_id": "PAIR_0006252",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.5,
+      "best_train_ne_containment": 0.5,
+      "best_train_ne": "यो सबैभन्दा सामान्य प्रकार हो।"
+    },
+    {
+      "synthetic_id": "brachytherapy_mt_0004",
+      "subdomain": "brachytherapy",
+      "synthetic_ne": "ब्राकिथेरापी एक्लै वा अन्य क्यान्सर उपचारसँगै प्रयोग हुन सक्छ।",
+      "best_train_ne_line": 14993,
+      "best_train_ne_id": "PAIR_0006042",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.4545,
+      "best_train_ne_containment": 0.7143,
+      "best_train_ne": "रेडिएशन एक्लै वा शल्यक्रिया वा किमोथेरापी जस्ता अन्य क्यान्सर उपचारसँगै प्रयोग गर्न सकिन्छ।"
+    },
+    {
+      "synthetic_id": "asthma_mt_0026",
+      "subdomain": "asthma",
+      "synthetic_ne": "सास फेर्न धेरै गाह्रो भएमा दमको आक्रमण खतरनाक हुन सक्छ।",
+      "best_train_ne_line": 11894,
+      "best_train_ne_id": "PAIR_0002057",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.4286,
+      "best_train_ne_containment": 0.4286,
+      "best_train_ne": "• सास फेर्न गाह्रो भएमा"
+    },
+    {
+      "synthetic_id": "chronic_kidney_disease_mt_0045",
+      "subdomain": "chronic_kidney_disease",
+      "synthetic_ne": "तरल पदार्थ धेरै जम्मा भएमा सास फेर्न गाह्रो हुन सक्छ।",
+      "best_train_ne_line": 11894,
+      "best_train_ne_id": "PAIR_0002057",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.4286,
+      "best_train_ne_containment": 0.4286,
+      "best_train_ne": "• सास फेर्न गाह्रो भएमा"
+    },
+    {
+      "synthetic_id": "chronic_kidney_disease_mt_0002",
+      "subdomain": "chronic_kidney_disease",
+      "synthetic_ne": "मिर्गौलाले रगतबाट फोहोर पदार्थ र अतिरिक्त तरल पदार्थ हटाउन मद्दत गर्छ।",
+      "best_train_ne_line": 12910,
+      "best_train_ne_id": "PAIR_0003258",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.4167,
+      "best_train_ne_containment": 0.5556,
+      "best_train_ne": "यो मेसिनले रगतबाट अतिरिक्त तरल पदार्थ र फोहोर छानेर निकाल्छ।"
+    },
+    {
+      "synthetic_id": "cataracts_mt_0010",
+      "subdomain": "cataracts",
+      "synthetic_ne": "उमेर बढ्दै जाँदा मोतिबिन्दु बढी सामान्य हुन्छ।",
+      "best_train_ne_line": 3257,
+      "best_train_ne_id": "PAIR_0051605",
+      "best_train_ne_source_dataset": "health_forum",
+      "best_train_ne_jaccard": 0.4,
+      "best_train_ne_containment": 0.5714,
+      "best_train_ne": "के उमेर बढ्दै जाँदा रक्तचाप बढ्नु सामान्य हो ?"
+    },
+    {
+      "synthetic_id": "diabetes_mt_0008",
+      "subdomain": "diabetes",
+      "synthetic_ne": "रगतको ग्लुकोज धेरै हुँदा दृष्टि धमिलो हुन सक्छ।",
+      "best_train_ne_line": 10354,
+      "best_train_ne_id": "PAIR_0000021",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.4,
+      "best_train_ne_containment": 0.4,
+      "best_train_ne": "• धमिलो दृष्टि"
+    },
+    {
+      "synthetic_id": "heart_failure_mt_0081",
+      "subdomain": "heart_failure",
+      "synthetic_ne": "सास फेर्न गाह्रोसँग छाती दुखेमा तुरुन्त चिकित्सा मूल्याङ्कन चाहिन्छ।",
+      "best_train_ne_line": 11334,
+      "best_train_ne_id": "PAIR_0001418",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.3846,
+      "best_train_ne_containment": 0.5556,
+      "best_train_ne": "सास फेर्न गाह्रो भएमा वा छाती दुखेमा तुरुन्त 911 मा फोन गर्नुहोस्।"
+    },
+    {
+      "synthetic_id": "brachytherapy_mt_0070",
+      "subdomain": "brachytherapy",
+      "synthetic_ne": "प्रक्रियाअघि बिरामीले अस्पतालको गाउन लगाउन सक्छ।",
+      "best_train_ne_line": 11602,
+      "best_train_ne_id": "PAIR_0001735",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.375,
+      "best_train_ne_containment": 0.5,
+      "best_train_ne": "तपाईंले अस्पतालको गाउन लगाउन सकुहुन्छ।"
+    },
+    {
+      "synthetic_id": "diabetes_mt_0006",
+      "subdomain": "diabetes",
+      "synthetic_ne": "बारम्बार पिसाब लाग्नु मधुमेहको एउटा लक्षण हुन सक्छ।",
+      "best_train_ne_line": 15356,
+      "best_train_ne_id": "PAIR_0006666",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.375,
+      "best_train_ne_containment": 0.4286,
+      "best_train_ne": "• अचानक वा बारम्बार पिसाब लाग्नु"
+    },
+    {
+      "synthetic_id": "glaucoma_mt_0023",
+      "subdomain": "glaucoma",
+      "synthetic_ne": "ओपन-एंगल ग्लूकोमा ग्लूकोमाको सामान्य प्रकार हो।",
+      "best_train_ne_line": 15134,
+      "best_train_ne_id": "PAIR_0006252",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.375,
+      "best_train_ne_containment": 0.4286,
+      "best_train_ne": "यो सबैभन्दा सामान्य प्रकार हो।"
+    },
+    {
+      "synthetic_id": "chronic_kidney_disease_mt_0011",
+      "subdomain": "chronic_kidney_disease",
+      "synthetic_ne": "मिर्गौलाको क्षति सुस्त बनाउन रक्तचाप नियन्त्रणमा राख्नु महत्त्वपूर्ण हुन्छ।",
+      "best_train_ne_line": 13793,
+      "best_train_ne_id": "PAIR_0004461",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.3636,
+      "best_train_ne_containment": 0.4444,
+      "best_train_ne": "तपाईंको हेरचाह: रक्तचाप नियन्त्रणमा राख्नु धेरै महत्त्वपूर्ण छ।"
+    },
+    {
+      "synthetic_id": "diabetes_mt_0075",
+      "subdomain": "diabetes",
+      "synthetic_ne": "आँखा परीक्षणले मधुमेहसम्बन्धी आँखा समस्या चाँडै पत्ता लगाउन मद्दत गर्न सक्छ।",
+      "best_train_ne_line": 15361,
+      "best_train_ne_id": "PAIR_0006671",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.3636,
+      "best_train_ne_containment": 0.4444,
+      "best_train_ne": "पिसाब परीक्षणले संक्रमण पत्ता लगाउन सक्छ।"
+    },
+    {
+      "synthetic_id": "glaucoma_mt_0008",
+      "subdomain": "glaucoma",
+      "synthetic_ne": "विस्तृत डाइलेटेड आँखा परीक्षणले ग्लूकोमा पत्ता लगाउन मद्दत गर्न सक्छ।",
+      "best_train_ne_line": 15361,
+      "best_train_ne_id": "PAIR_0006671",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.3636,
+      "best_train_ne_containment": 0.4444,
+      "best_train_ne": "पिसाब परीक्षणले संक्रमण पत्ता लगाउन सक्छ।"
+    },
+    {
+      "synthetic_id": "heart_failure_mt_0071",
+      "subdomain": "heart_failure",
+      "synthetic_ne": "हृदय विफलता हेरचाहको भागका रूपमा कार्डियाक रिह्याबिलिटेसन सिफारिस हुन सक्छ।",
+      "best_train_ne_line": 14816,
+      "best_train_ne_id": "PAIR_0005756",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.3636,
+      "best_train_ne_containment": 0.4444,
+      "best_train_ne": "• तपाईंको हेरचाहको भागका रूपमा अक्सिजन दिइन सक्छ।"
+    },
+    {
+      "synthetic_id": "high_blood_pressure_mt_0004",
+      "subdomain": "high_blood_pressure",
+      "synthetic_ne": "माथिल्लो संख्यालाई सिस्टोलिक रक्तचाप भनिन्छ।",
+      "best_train_ne_line": 13778,
+      "best_train_ne_id": "PAIR_0004446",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.3333,
+      "best_train_ne_containment": 0.6,
+      "best_train_ne": "• माथिल्लो संख्या ठूलो हुन्छ र यसलाई सिस्टोलिक रिडिङ भनिन्छ।"
+    },
+    {
+      "synthetic_id": "chemotherapy_mt_0006",
+      "subdomain": "chemotherapy",
+      "synthetic_ne": "शल्यक्रियापछि दिइने केमोथेरापीले शरीरमा बाँकी रहेका क्यान्सर कोषिका मार्न मद्दत गर्न सक्छ।",
+      "best_train_ne_line": 12150,
+      "best_train_ne_id": "PAIR_0002316",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.3333,
+      "best_train_ne_containment": 0.5455,
+      "best_train_ne": "गाँठो सानो बनाउन शल्यक्रियाअघि वा फैलिएको वा शरीरमा बाँकी रहेका क्यान्सर कोष मार्न शल्यक्रियापछि यो गर्न सकिन्छ।"
+    },
+    {
+      "synthetic_id": "stroke_mt_0021",
+      "subdomain": "stroke",
+      "synthetic_ne": "रगतको थक्काले मस्तिष्कको कुनै भागमा रगत प्रवाह रोक्दा इस्केमिक स्ट्रोक हुन्छ।",
+      "best_train_ne_line": 12829,
+      "best_train_ne_id": "PAIR_0003173",
+      "best_train_ne_source_dataset": null,
+      "best_train_ne_jaccard": 0.3333,
+      "best_train_ne_containment": 0.5455,
+      "best_train_ne": "मस्तिष्कको कुनै भागमा रगत र पोषक तत्त्व पुर्‍याउने रक्तनली बन्द हुँदा वा फुट्दा स्ट्रोक हुन्छ।"
+    }
+  ]
+}

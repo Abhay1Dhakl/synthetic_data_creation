@@ -1,0 +1,594 @@
+{
+  "synthetic_path": "final_data/final_collected_synthetic_data.jsonl",
+  "train_path": "/Users/abhaydhakal/Documents/clean_data/data/final/train.jsonl",
+  "synthetic_records": 1100,
+  "train_records": 5047,
+  "synthetic_json_errors": 0,
+  "train_json_errors": 0,
+  "all_synthetic_flags_true": true,
+  "subdomains": {
+    "asthma": 100,
+    "brachytherapy": 100,
+    "cataracts": 100,
+    "chemotherapy": 100,
+    "chronic_kidney_disease": 100,
+    "coronary_heart_disease": 100,
+    "diabetes": 100,
+    "glaucoma": 100,
+    "heart_failure": 100,
+    "high_blood_pressure": 100,
+    "stroke": 100
+  },
+  "exact_en_sentence_matches": 0,
+  "exact_ne_sentence_matches": 1,
+  "exact_en_sentence_match_percent": 0.0,
+  "exact_ne_sentence_match_percent": 0.09,
+  "best_en_jaccard": {
+    "avg": 0.2212,
+    "median": 0.2,
+    "max": 1.0,
+    "ge_0_8": 2,
+    "ge_0_6": 2,
+    "ge_0_4": 41
+  },
+  "best_ne_jaccard": {
+    "avg": 0.1758,
+    "median": 0.1667,
+    "max": 1.0,
+    "ge_0_8": 1,
+    "ge_0_6": 1,
+    "ge_0_4": 8
+  },
+  "best_en_containment": {
+    "avg": 0.3055,
+    "median": 0.2857,
+    "max": 1.0,
+    "ge_0_8": 5,
+    "ge_0_6": 28,
+    "ge_0_4": 187
+  },
+  "best_ne_containment": {
+    "avg": 0.2632,
+    "median": 0.25,
+    "max": 1.0,
+    "ge_0_8": 1,
+    "ge_0_6": 4,
+    "ge_0_4": 84
+  },
+  "synthetic_en_vocab_size": 1884,
+  "train_en_vocab_size": 5420,
+  "synthetic_ne_vocab_size": 2097,
+  "train_ne_vocab_size": 11013,
+  "synthetic_en_vocab_in_train_percent": 68.31,
+  "synthetic_ne_vocab_in_train_percent": 56.18,
+  "synthetic_en_token_mass_in_train_percent": 86.53,
+  "synthetic_ne_token_mass_in_train_percent": 77.93,
+  "top_synthetic_en_tokens_also_in_train": [
+    [
+      "blood",
+      175,
+      244
+    ],
+    [
+      "heart",
+      170,
+      90
+    ],
+    [
+      "patients",
+      144,
+      1
+    ],
+    [
+      "help",
+      113,
+      150
+    ],
+    [
+      "pressure",
+      96,
+      108
+    ],
+    [
+      "treatment",
+      91,
+      69
+    ],
+    [
+      "eye",
+      89,
+      30
+    ],
+    [
+      "care",
+      78,
+      119
+    ],
+    [
+      "symptoms",
+      76,
+      30
+    ],
+    [
+      "patient",
+      76,
+      1
+    ],
+    [
+      "kidney",
+      75,
+      24
+    ],
+    [
+      "diabetes",
+      64,
+      34
+    ],
+    [
+      "risk",
+      63,
+      44
+    ],
+    [
+      "stroke",
+      60,
+      7
+    ],
+    [
+      "medicines",
+      59,
+      105
+    ],
+    [
+      "asthma",
+      57,
+      22
+    ],
+    [
+      "people",
+      56,
+      65
+    ],
+    [
+      "high",
+      56,
+      81
+    ],
+    [
+      "chemotherapy",
+      53,
+      4
+    ],
+    [
+      "failure",
+      50,
+      15
+    ],
+    [
+      "vision",
+      48,
+      25
+    ],
+    [
+      "disease",
+      44,
+      40
+    ],
+    [
+      "reduce",
+      42,
+      23
+    ],
+    [
+      "medicine",
+      41,
+      169
+    ],
+    [
+      "need",
+      41,
+      112
+    ]
+  ],
+  "top_synthetic_ne_tokens_also_in_train": [
+    [
+      "सक्छ।",
+      527,
+      246
+    ],
+    [
+      "हृदय",
+      141,
+      11
+    ],
+    [
+      "मद्दत",
+      107,
+      126
+    ],
+    [
+      "लक्षण",
+      91,
+      32
+    ],
+    [
+      "औषधि",
+      88,
+      128
+    ],
+    [
+      "उपचार",
+      83,
+      108
+    ],
+    [
+      "रक्तचाप",
+      78,
+      50
+    ],
+    [
+      "सक्छन्।",
+      75,
+      95
+    ],
+    [
+      "जोखिम",
+      75,
+      16
+    ],
+    [
+      "मिर्गौला",
+      69,
+      1
+    ],
+    [
+      "हेरचाह",
+      68,
+      47
+    ],
+    [
+      "प्रयोग",
+      66,
+      228
+    ],
+    [
+      "मधुमेह",
+      66,
+      22
+    ],
+    [
+      "भनेर",
+      62,
+      54
+    ],
+    [
+      "हुन्छ।",
+      61,
+      161
+    ],
+    [
+      "आँखा",
+      60,
+      24
+    ],
+    [
+      "उच्च",
+      55,
+      49
+    ],
+    [
+      "दृष्टि",
+      52,
+      5
+    ],
+    [
+      "स्ट्रोक",
+      52,
+      5
+    ],
+    [
+      "बिरामीलाई",
+      51,
+      1
+    ],
+    [
+      "हो।",
+      49,
+      105
+    ],
+    [
+      "बेला",
+      46,
+      28
+    ],
+    [
+      "हुने",
+      45,
+      123
+    ],
+    [
+      "रूपमा",
+      44,
+      43
+    ],
+    [
+      "घटाउन",
+      44,
+      5
+    ]
+  ],
+  "highest_en_similarity_examples": [
+    {
+      "synthetic_id": "high_blood_pressure_mt_0002",
+      "subdomain": "high_blood_pressure",
+      "synthetic_en": "High blood pressure is also called hypertension.",
+      "best_train_en_line": 3449,
+      "best_train_en_jaccard": 1.0,
+      "best_train_en_containment": 1.0,
+      "best_train_en": "High Blood Pressure High blood pressure is also called hypertension."
+    },
+    {
+      "synthetic_id": "diabetes_mt_0024",
+      "subdomain": "diabetes",
+      "synthetic_en": "Prediabetes means blood glucose is higher than normal but not high enough for diabetes.",
+      "best_train_en_line": 10,
+      "best_train_en_jaccard": 0.8,
+      "best_train_en_containment": 0.8,
+      "best_train_en": "• With prediabetes, your glucose is higher than normal, but not high enough to be called diabetes."
+    },
+    {
+      "synthetic_id": "diabetes_mt_0031",
+      "subdomain": "diabetes",
+      "synthetic_en": "Diabetes can affect the heart, eyes, kidneys, and nerves.",
+      "best_train_en_line": 13,
+      "best_train_en_jaccard": 0.5714,
+      "best_train_en_containment": 0.6667,
+      "best_train_en": "It can damage your eyes, kidneys, heart, and nerves."
+    },
+    {
+      "synthetic_id": "coronary_heart_disease_mt_0055",
+      "subdomain": "coronary_heart_disease",
+      "synthetic_en": "Shortness of breath can occur with or without chest pain during a heart attack.",
+      "best_train_en_line": 997,
+      "best_train_en_jaccard": 0.5714,
+      "best_train_en_containment": 0.5714,
+      "best_train_en": "• Shortness of breath or chest pain"
+    },
+    {
+      "synthetic_id": "asthma_mt_0040",
+      "subdomain": "asthma",
+      "synthetic_en": "People with asthma should avoid tobacco smoke and secondhand smoke.",
+      "best_train_en_line": 3304,
+      "best_train_en_jaccard": 0.5556,
+      "best_train_en_containment": 0.7143,
+      "best_train_en": "• Do not smoke or use tobacco products and avoid other people's tobacco smoke."
+    },
+    {
+      "synthetic_id": "chemotherapy_mt_0006",
+      "subdomain": "chemotherapy",
+      "synthetic_en": "Chemotherapy after surgery may help kill cancer cells that remain in the body.",
+      "best_train_en_line": 1816,
+      "best_train_en_jaccard": 0.5455,
+      "best_train_en_containment": 0.75,
+      "best_train_en": "It may be done before surgery to shrink a tumor or after surgery to kill cancer cells that may have spread or that remain in the body."
+    },
+    {
+      "synthetic_id": "diabetes_mt_0045",
+      "subdomain": "diabetes",
+      "synthetic_en": "A fasting plasma glucose test measures blood glucose after not eating for a period of time.",
+      "best_train_en_line": 28,
+      "best_train_en_jaccard": 0.5455,
+      "best_train_en_containment": 0.6667,
+      "best_train_en": "• A fasting plasma glucose (FPG) test, also called fasting blood glucose, measures blood sugar."
+    },
+    {
+      "synthetic_id": "brachytherapy_mt_0089",
+      "subdomain": "brachytherapy",
+      "synthetic_en": "Sanitary pads may be recommended instead of tampons after treatment.",
+      "best_train_en_line": 601,
+      "best_train_en_jaccard": 0.5,
+      "best_train_en_containment": 0.6667,
+      "best_train_en": "Use sanitary pads instead of tampons during this time."
+    },
+    {
+      "synthetic_id": "chronic_kidney_disease_mt_0020",
+      "subdomain": "chronic_kidney_disease",
+      "synthetic_en": "Albumin in the urine can be an early sign of kidney damage.",
+      "best_train_en_line": 270,
+      "best_train_en_jaccard": 0.5,
+      "best_train_en_containment": 0.6667,
+      "best_train_en": "If protein is found in the urine, it can be a sign of kidney damage."
+    },
+    {
+      "synthetic_id": "diabetes_mt_0032",
+      "subdomain": "diabetes",
+      "synthetic_en": "Managing diabetes can help prevent or delay long-term health problems.",
+      "best_train_en_line": 229,
+      "best_train_en_jaccard": 0.5,
+      "best_train_en_containment": 0.625,
+      "best_train_en": "Managing Your Diabetes Manage your diabetes to prevent eye and other health problems."
+    },
+    {
+      "synthetic_id": "diabetes_mt_0012",
+      "subdomain": "diabetes",
+      "synthetic_en": "Insulin helps move glucose from the blood into the body's cells.",
+      "best_train_en_line": 5,
+      "best_train_en_jaccard": 0.4545,
+      "best_train_en_containment": 0.7143,
+      "best_train_en": "It helps glucose move from your blood into your cells, so your body can use it for energy."
+    },
+    {
+      "synthetic_id": "high_blood_pressure_mt_0051",
+      "subdomain": "high_blood_pressure",
+      "synthetic_en": "A patient should learn how to use a home blood pressure monitor correctly.",
+      "best_train_en_line": 275,
+      "best_train_en_jaccard": 0.4545,
+      "best_train_en_containment": 0.625,
+      "best_train_en": "Use a home blood pressure monitor to check your blood pressure between doctor visits."
+    },
+    {
+      "synthetic_id": "high_blood_pressure_mt_0008",
+      "subdomain": "high_blood_pressure",
+      "synthetic_en": "Consistent readings of 130 over 80 or higher can suggest high blood pressure.",
+      "best_train_en_line": 3450,
+      "best_train_en_jaccard": 0.4545,
+      "best_train_en_containment": 0.5556,
+      "best_train_en": "High blood pressure is 130 or higher over 80 or higher."
+    },
+    {
+      "synthetic_id": "chronic_kidney_disease_mt_0007",
+      "subdomain": "chronic_kidney_disease",
+      "synthetic_en": "High blood pressure can damage the blood vessels inside the kidneys.",
+      "best_train_en_line": 214,
+      "best_train_en_jaccard": 0.4444,
+      "best_train_en_containment": 0.5714,
+      "best_train_en": "If you also have high blood pressure, this can further damage the blood vessels."
+    },
+    {
+      "synthetic_id": "heart_failure_mt_0081",
+      "subdomain": "heart_failure",
+      "synthetic_en": "Chest pain with breathing trouble needs immediate medical evaluation.",
+      "best_train_en_line": 588,
+      "best_train_en_jaccard": 0.4444,
+      "best_train_en_containment": 0.5,
+      "best_train_en": "• Chest pain, trouble breathing, or a seizure."
+    }
+  ],
+  "highest_ne_similarity_examples": [
+    {
+      "synthetic_id": "high_blood_pressure_mt_0002",
+      "subdomain": "high_blood_pressure",
+      "synthetic_ne": "उच्च रक्तचापलाई हाइपरटेन्सन पनि भनिन्छ।",
+      "best_train_ne_line": 3449,
+      "best_train_ne_jaccard": 1.0,
+      "best_train_ne_containment": 1.0,
+      "best_train_ne": "उच्च रक्तचापलाई हाइपरटेन्सन पनि भनिन्छ।"
+    },
+    {
+      "synthetic_id": "chronic_kidney_disease_mt_0046",
+      "subdomain": "chronic_kidney_disease",
+      "synthetic_ne": "अचानक सुन्निनु वा सास फेर्न गाह्रो हुनु छिटो जानकारी गराउनुपर्छ।",
+      "best_train_ne_line": 4508,
+      "best_train_ne_jaccard": 0.5,
+      "best_train_ne_containment": 0.5556,
+      "best_train_ne": "• सास फेर्न गाह्रो हुनु वा छिटो सास फेर्नु"
+    },
+    {
+      "synthetic_id": "cataracts_mt_0059",
+      "subdomain": "cataracts",
+      "synthetic_ne": "उमेरसँग सम्बन्धित मोतिबिन्दु मोतिबिन्दुको सबैभन्दा सामान्य प्रकार हो।",
+      "best_train_ne_line": 4800,
+      "best_train_ne_jaccard": 0.5,
+      "best_train_ne_containment": 0.5,
+      "best_train_ne": "यो सबैभन्दा सामान्य प्रकार हो।"
+    },
+    {
+      "synthetic_id": "brachytherapy_mt_0004",
+      "subdomain": "brachytherapy",
+      "synthetic_ne": "ब्राकिथेरापी एक्लै वा अन्य क्यान्सर उपचारसँगै प्रयोग हुन सक्छ।",
+      "best_train_ne_line": 4659,
+      "best_train_ne_jaccard": 0.4545,
+      "best_train_ne_containment": 0.7143,
+      "best_train_ne": "रेडिएशन एक्लै वा शल्यक्रिया वा किमोथेरापी जस्ता अन्य क्यान्सर उपचारसँगै प्रयोग गर्न सकिन्छ।"
+    },
+    {
+      "synthetic_id": "asthma_mt_0026",
+      "subdomain": "asthma",
+      "synthetic_ne": "सास फेर्न धेरै गाह्रो भएमा दमको आक्रमण खतरनाक हुन सक्छ।",
+      "best_train_ne_line": 1560,
+      "best_train_ne_jaccard": 0.4286,
+      "best_train_ne_containment": 0.4286,
+      "best_train_ne": "• सास फेर्न गाह्रो भएमा"
+    },
+    {
+      "synthetic_id": "chronic_kidney_disease_mt_0045",
+      "subdomain": "chronic_kidney_disease",
+      "synthetic_ne": "तरल पदार्थ धेरै जम्मा भएमा सास फेर्न गाह्रो हुन सक्छ।",
+      "best_train_ne_line": 1560,
+      "best_train_ne_jaccard": 0.4286,
+      "best_train_ne_containment": 0.4286,
+      "best_train_ne": "• सास फेर्न गाह्रो भएमा"
+    },
+    {
+      "synthetic_id": "chronic_kidney_disease_mt_0002",
+      "subdomain": "chronic_kidney_disease",
+      "synthetic_ne": "मिर्गौलाले रगतबाट फोहोर पदार्थ र अतिरिक्त तरल पदार्थ हटाउन मद्दत गर्छ।",
+      "best_train_ne_line": 2576,
+      "best_train_ne_jaccard": 0.4167,
+      "best_train_ne_containment": 0.5556,
+      "best_train_ne": "यो मेसिनले रगतबाट अतिरिक्त तरल पदार्थ र फोहोर छानेर निकाल्छ।"
+    },
+    {
+      "synthetic_id": "diabetes_mt_0008",
+      "subdomain": "diabetes",
+      "synthetic_ne": "रगतको ग्लुकोज धेरै हुँदा दृष्टि धमिलो हुन सक्छ।",
+      "best_train_ne_line": 20,
+      "best_train_ne_jaccard": 0.4,
+      "best_train_ne_containment": 0.4,
+      "best_train_ne": "• धमिलो दृष्टि"
+    },
+    {
+      "synthetic_id": "heart_failure_mt_0081",
+      "subdomain": "heart_failure",
+      "synthetic_ne": "सास फेर्न गाह्रोसँग छाती दुखेमा तुरुन्त चिकित्सा मूल्याङ्कन चाहिन्छ।",
+      "best_train_ne_line": 1000,
+      "best_train_ne_jaccard": 0.3846,
+      "best_train_ne_containment": 0.5556,
+      "best_train_ne": "सास फेर्न गाह्रो भएमा वा छाती दुखेमा तुरुन्त 911 मा फोन गर्नुहोस्।"
+    },
+    {
+      "synthetic_id": "brachytherapy_mt_0070",
+      "subdomain": "brachytherapy",
+      "synthetic_ne": "प्रक्रियाअघि बिरामीले अस्पतालको गाउन लगाउन सक्छ।",
+      "best_train_ne_line": 1268,
+      "best_train_ne_jaccard": 0.375,
+      "best_train_ne_containment": 0.5,
+      "best_train_ne": "तपाईंले अस्पतालको गाउन लगाउन सकुहुन्छ।"
+    },
+    {
+      "synthetic_id": "diabetes_mt_0006",
+      "subdomain": "diabetes",
+      "synthetic_ne": "बारम्बार पिसाब लाग्नु मधुमेहको एउटा लक्षण हुन सक्छ।",
+      "best_train_ne_line": 5022,
+      "best_train_ne_jaccard": 0.375,
+      "best_train_ne_containment": 0.4286,
+      "best_train_ne": "• अचानक वा बारम्बार पिसाब लाग्नु"
+    },
+    {
+      "synthetic_id": "glaucoma_mt_0023",
+      "subdomain": "glaucoma",
+      "synthetic_ne": "ओपन-एंगल ग्लूकोमा ग्लूकोमाको सामान्य प्रकार हो।",
+      "best_train_ne_line": 4800,
+      "best_train_ne_jaccard": 0.375,
+      "best_train_ne_containment": 0.4286,
+      "best_train_ne": "यो सबैभन्दा सामान्य प्रकार हो।"
+    },
+    {
+      "synthetic_id": "diabetes_mt_0075",
+      "subdomain": "diabetes",
+      "synthetic_ne": "आँखा परीक्षणले मधुमेहसम्बन्धी आँखा समस्या चाँडै पत्ता लगाउन मद्दत गर्न सक्छ।",
+      "best_train_ne_line": 5027,
+      "best_train_ne_jaccard": 0.3636,
+      "best_train_ne_containment": 0.4444,
+      "best_train_ne": "पिसाब परीक्षणले संक्रमण पत्ता लगाउन सक्छ।"
+    },
+    {
+      "synthetic_id": "glaucoma_mt_0008",
+      "subdomain": "glaucoma",
+      "synthetic_ne": "विस्तृत डाइलेटेड आँखा परीक्षणले ग्लूकोमा पत्ता लगाउन मद्दत गर्न सक्छ।",
+      "best_train_ne_line": 5027,
+      "best_train_ne_jaccard": 0.3636,
+      "best_train_ne_containment": 0.4444,
+      "best_train_ne": "पिसाब परीक्षणले संक्रमण पत्ता लगाउन सक्छ।"
+    },
+    {
+      "synthetic_id": "high_blood_pressure_mt_0004",
+      "subdomain": "high_blood_pressure",
+      "synthetic_ne": "माथिल्लो संख्यालाई सिस्टोलिक रक्तचाप भनिन्छ।",
+      "best_train_ne_line": 3444,
+      "best_train_ne_jaccard": 0.3333,
+      "best_train_ne_containment": 0.6,
+      "best_train_ne": "• माथिल्लो संख्या ठूलो हुन्छ र यसलाई सिस्टोलिक रिडिङ भनिन्छ।"
+    }
+  ]
+}
