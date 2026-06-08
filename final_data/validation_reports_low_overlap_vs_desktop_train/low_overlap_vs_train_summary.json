@@ -1,0 +1,235 @@
+{
+  "synthetic_path": "final_data/final_collected_synthetic_data_low_overlap.jsonl",
+  "train_path": "/Users/abhaydhakal/Desktop/health_care_dataset/train.jsonl",
+  "synthetic_records": 1100,
+  "train_records": 15381,
+  "synthetic_json_errors": 0,
+  "train_json_errors": 0,
+  "rewritten_records": 58,
+  "all_synthetic_flags_true": true,
+  "exact_en_sentence_matches": 0,
+  "exact_ne_sentence_matches": 0,
+  "exact_en_sentence_match_percent": 0.0,
+  "exact_ne_sentence_match_percent": 0.0,
+  "best_en_jaccard": {
+    "avg": 0.2168,
+    "median": 0.2,
+    "max": 0.4444,
+    "ge_0_8": 0,
+    "ge_0_6": 0,
+    "ge_0_4": 1
+  },
+  "best_ne_jaccard": {
+    "avg": 0.1777,
+    "median": 0.1667,
+    "max": 0.375,
+    "ge_0_8": 0,
+    "ge_0_6": 0,
+    "ge_0_4": 0
+  },
+  "best_en_containment": {
+    "avg": 0.3007,
+    "median": 0.2857,
+    "max": 0.6667,
+    "ge_0_8": 0,
+    "ge_0_6": 8,
+    "ge_0_4": 164
+  },
+  "best_ne_containment": {
+    "avg": 0.2622,
+    "median": 0.25,
+    "max": 0.625,
+    "ge_0_8": 0,
+    "ge_0_6": 2,
+    "ge_0_4": 70
+  },
+  "synthetic_en_vocab_in_train_percent": 90.56,
+  "synthetic_ne_vocab_in_train_percent": 80.28,
+  "synthetic_en_token_mass_in_train_percent": 96.72,
+  "synthetic_ne_token_mass_in_train_percent": 92.28,
+  "remaining_high_risk_rows": 1,
+  "highest_en_similarity_examples": [
+    {
+      "synthetic_id": "high_blood_pressure_mt_0005",
+      "subdomain": "high_blood_pressure",
+      "synthetic_en": "The second value shows the pressure when the heart rests between beats.",
+      "best_train_en_line": 13780,
+      "best_train_en_jaccard": 0.4444,
+      "best_train_en_containment": 0.5714,
+      "best_train_en": "It is the pressure in the blood vessels when the heart rests between beats."
+    },
+    {
+      "synthetic_id": "high_blood_pressure_mt_0031",
+      "subdomain": "high_blood_pressure",
+      "synthetic_en": "Too much alcohol can increase the risk of high blood pressure.",
+      "best_train_en_line": 12582,
+      "best_train_en_jaccard": 0.3846,
+      "best_train_en_containment": 0.625,
+      "best_train_en": "Too much cholesterol in your blood can be harmful to your body and can increase your risk for heart disease."
+    },
+    {
+      "synthetic_id": "high_blood_pressure_mt_0053",
+      "subdomain": "high_blood_pressure",
+      "synthetic_en": "Blood pressure can also be checked at some pharmacies or clinics.",
+      "best_train_en_line": 11489,
+      "best_train_en_jaccard": 0.375,
+      "best_train_en_containment": 0.6,
+      "best_train_en": "• Your breathing, blood pressure and pulse are checked often."
+    },
+    {
+      "synthetic_id": "glaucoma_mt_0007",
+      "subdomain": "glaucoma",
+      "synthetic_en": "A person may lose side vision before central vision changes.",
+      "best_train_en_line": 10540,
+      "best_train_en_jaccard": 0.375,
+      "best_train_en_containment": 0.5,
+      "best_train_en": "• Loss of side (peripheral) vision • Loss of central vision"
+    },
+    {
+      "synthetic_id": "brachytherapy_mt_0071",
+      "subdomain": "brachytherapy",
+      "synthetic_en": "The care team may monitor heartbeat and blood pressure during the procedure.",
+      "best_train_en_line": 13821,
+      "best_train_en_jaccard": 0.375,
+      "best_train_en_containment": 0.4286,
+      "best_train_en": "Your care If you have high blood pressure:"
+    },
+    {
+      "synthetic_id": "coronary_heart_disease_mt_0069",
+      "subdomain": "coronary_heart_disease",
+      "synthetic_en": "Patients should ask how often they need blood tests and heart checkups.",
+      "best_train_en_line": 14385,
+      "best_train_en_jaccard": 0.375,
+      "best_train_en_containment": 0.4286,
+      "best_train_en": "• You may need to have some blood tests done before this test."
+    },
+    {
+      "synthetic_id": "coronary_heart_disease_mt_0090",
+      "subdomain": "coronary_heart_disease",
+      "synthetic_en": "Blood sugar control can be part of preventing heart complications.",
+      "best_train_en_line": 13643,
+      "best_train_en_jaccard": 0.375,
+      "best_train_en_containment": 0.4286,
+      "best_train_en": "• Control your blood sugar if you have diabetes."
+    },
+    {
+      "synthetic_id": "heart_failure_mt_0091",
+      "subdomain": "heart_failure",
+      "synthetic_en": "Patients should ask how often they need blood tests and heart imaging.",
+      "best_train_en_line": 14385,
+      "best_train_en_jaccard": 0.375,
+      "best_train_en_containment": 0.4286,
+      "best_train_en": "• You may need to have some blood tests done before this test."
+    },
+    {
+      "synthetic_id": "high_blood_pressure_mt_0026",
+      "subdomain": "high_blood_pressure",
+      "synthetic_en": "Many risk factors can raise the chance of high blood pressure.",
+      "best_train_en_line": 12583,
+      "best_train_en_jaccard": 0.375,
+      "best_train_en_containment": 0.4286,
+      "best_train_en": "You are at risk for high blood cholesterol if:"
+    },
+    {
+      "synthetic_id": "high_blood_pressure_mt_0070",
+      "subdomain": "high_blood_pressure",
+      "synthetic_en": "Follow-up care is important after a diagnosis of high blood pressure.",
+      "best_train_en_line": 13821,
+      "best_train_en_jaccard": 0.375,
+      "best_train_en_containment": 0.4286,
+      "best_train_en": "Your care If you have high blood pressure:"
+    }
+  ],
+  "highest_ne_similarity_examples": [
+    {
+      "synthetic_id": "brachytherapy_mt_0070",
+      "subdomain": "brachytherapy",
+      "synthetic_ne": "प्रक्रियाअघि बिरामीले अस्पतालको गाउन लगाउन सक्छ।",
+      "best_train_ne_line": 11602,
+      "best_train_ne_jaccard": 0.375,
+      "best_train_ne_containment": 0.5,
+      "best_train_ne": "तपाईंले अस्पतालको गाउन लगाउन सकुहुन्छ।"
+    },
+    {
+      "synthetic_id": "glaucoma_mt_0023",
+      "subdomain": "glaucoma",
+      "synthetic_ne": "ओपन-एंगल ग्लूकोमा ग्लूकोमाको सामान्य प्रकार हो।",
+      "best_train_ne_line": 15134,
+      "best_train_ne_jaccard": 0.375,
+      "best_train_ne_containment": 0.4286,
+      "best_train_ne": "यो सबैभन्दा सामान्य प्रकार हो।"
+    },
+    {
+      "synthetic_id": "chronic_kidney_disease_mt_0011",
+      "subdomain": "chronic_kidney_disease",
+      "synthetic_ne": "मिर्गौलाको क्षति सुस्त बनाउन रक्तचाप नियन्त्रणमा राख्नु महत्त्वपूर्ण हुन्छ।",
+      "best_train_ne_line": 13793,
+      "best_train_ne_jaccard": 0.3636,
+      "best_train_ne_containment": 0.4444,
+      "best_train_ne": "तपाईंको हेरचाह: रक्तचाप नियन्त्रणमा राख्नु धेरै महत्त्वपूर्ण छ।"
+    },
+    {
+      "synthetic_id": "diabetes_mt_0075",
+      "subdomain": "diabetes",
+      "synthetic_ne": "आँखा परीक्षणले मधुमेहसम्बन्धी आँखा समस्या चाँडै पत्ता लगाउन मद्दत गर्न सक्छ।",
+      "best_train_ne_line": 15361,
+      "best_train_ne_jaccard": 0.3636,
+      "best_train_ne_containment": 0.4444,
+      "best_train_ne": "पिसाब परीक्षणले संक्रमण पत्ता लगाउन सक्छ।"
+    },
+    {
+      "synthetic_id": "glaucoma_mt_0008",
+      "subdomain": "glaucoma",
+      "synthetic_ne": "विस्तृत डाइलेटेड आँखा परीक्षणले ग्लूकोमा पत्ता लगाउन मद्दत गर्न सक्छ।",
+      "best_train_ne_line": 15361,
+      "best_train_ne_jaccard": 0.3636,
+      "best_train_ne_containment": 0.4444,
+      "best_train_ne": "पिसाब परीक्षणले संक्रमण पत्ता लगाउन सक्छ।"
+    },
+    {
+      "synthetic_id": "heart_failure_mt_0071",
+      "subdomain": "heart_failure",
+      "synthetic_ne": "हृदय विफलता हेरचाहको भागका रूपमा कार्डियाक रिह्याबिलिटेसन सिफारिस हुन सक्छ।",
+      "best_train_ne_line": 14816,
+      "best_train_ne_jaccard": 0.3636,
+      "best_train_ne_containment": 0.4444,
+      "best_train_ne": "• तपाईंको हेरचाहको भागका रूपमा अक्सिजन दिइन सक्छ।"
+    },
+    {
+      "synthetic_id": "stroke_mt_0021",
+      "subdomain": "stroke",
+      "synthetic_ne": "रगतको थक्काले मस्तिष्कको कुनै भागमा रगत प्रवाह रोक्दा इस्केमिक स्ट्रोक हुन्छ।",
+      "best_train_ne_line": 12829,
+      "best_train_ne_jaccard": 0.3333,
+      "best_train_ne_containment": 0.5455,
+      "best_train_ne": "मस्तिष्कको कुनै भागमा रगत र पोषक तत्त्व पुर्‍याउने रक्तनली बन्द हुँदा वा फुट्दा स्ट्रोक हुन्छ।"
+    },
+    {
+      "synthetic_id": "glaucoma_mt_0076",
+      "subdomain": "glaucoma",
+      "synthetic_ne": "केही व्यक्तिलाई ग्लूकोमा नियन्त्रण गर्न एकभन्दा बढी उपचार चाहिन सक्छ।",
+      "best_train_ne_line": 15318,
+      "best_train_ne_jaccard": 0.3333,
+      "best_train_ne_containment": 0.5,
+      "best_train_ne": "TB का लागि तपाईंलाई एकभन्दा बढी प्रकारका औषधि चाहिन सक्छ।"
+    },
+    {
+      "synthetic_id": "high_blood_pressure_mt_0064",
+      "subdomain": "high_blood_pressure",
+      "synthetic_ne": "धेरै व्यक्तिलाई उच्च रक्तचाप व्यवस्थापन गर्न दुई वा बढी औषधि चाहिन सक्छ।",
+      "best_train_ne_line": 15318,
+      "best_train_ne_jaccard": 0.3333,
+      "best_train_ne_containment": 0.5,
+      "best_train_ne": "TB का लागि तपाईंलाई एकभन्दा बढी प्रकारका औषधि चाहिन सक्छ।"
+    },
+    {
+      "synthetic_id": "stroke_mt_0040",
+      "subdomain": "stroke",
+      "synthetic_ne": "मोटोपनाले स्ट्रोक हुने सम्भावना बढाउन सक्छ।",
+      "best_train_ne_line": 758,
+      "best_train_ne_jaccard": 0.3333,
+      "best_train_ne_containment": 0.5,
+      "best_train_ne": "गर्भवती हुने सम्भावना बढाउन महिलाले के गर्छ?"
+    }
+  ]
+}

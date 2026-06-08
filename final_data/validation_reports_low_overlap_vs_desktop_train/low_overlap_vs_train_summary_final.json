@@ -1,0 +1,19 @@
+{
+  "records": 1100,
+  "json_errors": 0,
+  "rewritten_records": 58,
+  "exact_en": 0,
+  "exact_ne": 0,
+  "en_jaccard_ge_0_4": 0,
+  "en_jaccard_ge_0_6": 0,
+  "ne_jaccard_ge_0_4": 0,
+  "ne_jaccard_ge_0_6": 0,
+  "en_containment_ge_0_7": 0,
+  "ne_containment_ge_0_7": 0,
+  "max_en_jaccard": 0.3846,
+  "max_ne_jaccard": 0.375,
+  "max_en_containment": 0.6667,
+  "max_ne_containment": 0.625,
+  "remaining_high_risk_rows": 0,
+  "high_examples": []
+}
